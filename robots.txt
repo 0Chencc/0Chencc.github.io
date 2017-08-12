@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /tags/
+Allow: /about/
+Allow: /categories/
+Allow: /archives/
+Disallow: /js/
+Disallow: /css/
+Disallow: /images/
+
+Sitemap: https://0chencc.github.io/sitemap.xml

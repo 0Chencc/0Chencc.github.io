@@ -1,0 +1,824 @@
+<!doctype html>
+
+
+
+  
+
+
+<html class="theme-next mist use-motion" lang="zh-Hans">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+  
+  
+  
+  
+
+  
+    
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.1.0" rel="stylesheet" type="text/css" />
+
+
+  <meta name="keywords" content="CTFCrackTools,Java,Python,Jython,CTF," />
+
+
+
+
+
+  <link rel="alternate" href="/atom.xml" title="假文人林晨和他的生活" type="application/atom+xml" />
+
+
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=5.1.0" />
+
+
+
+
+
+
+<meta name="description" content="框架介绍 CTFcrackTools重置版 作者：米斯特安全-林晨、摇摆、奶权 米斯特安全团队首页：http://www.hi-ourlife.com/ 部分插件来源：希望团队-nMask  这大概是国内首个应用于CTF的工具框架。 可以被应用于CTF中的Crypto，Misc… 内置目前主流密码（包括但不限于维吉利亚密码，凯撒密码，栅栏密码······） 用户可自主编写插件，但仅支持Python">
+<meta name="keywords" content="CTFCrackTools,Java,Python,Jython,CTF">
+<meta property="og:type" content="article">
+<meta property="og:title" content="CTFCrackToolsV3.0发布">
+<meta property="og:url" content="http://0chencc.github.io/2017/07/22/CTFCrackToolsV3-0发布/index.html">
+<meta property="og:site_name" content="假文人林晨和他的生活">
+<meta property="og:description" content="框架介绍 CTFcrackTools重置版 作者：米斯特安全-林晨、摇摆、奶权 米斯特安全团队首页：http://www.hi-ourlife.com/ 部分插件来源：希望团队-nMask  这大概是国内首个应用于CTF的工具框架。 可以被应用于CTF中的Crypto，Misc… 内置目前主流密码（包括但不限于维吉利亚密码，凯撒密码，栅栏密码······） 用户可自主编写插件，但仅支持Python">
+<meta property="og:image" content="http://oqz4ehyp7.bkt.clouddn.com/blog/20170720/200626242.png">
+<meta property="og:image" content="http://oqz4ehyp7.bkt.clouddn.com/blog/20170720/200644681.png">
+<meta property="og:image" content="http://oqz4ehyp7.bkt.clouddn.com/blog/20170720/200655482.png">
+<meta property="og:image" content="http://oqz4ehyp7.bkt.clouddn.com/blog/20170720/195650029.gif">
+<meta property="og:updated_time" content="2017-07-22T15:54:54.910Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="CTFCrackToolsV3.0发布">
+<meta name="twitter:description" content="框架介绍 CTFcrackTools重置版 作者：米斯特安全-林晨、摇摆、奶权 米斯特安全团队首页：http://www.hi-ourlife.com/ 部分插件来源：希望团队-nMask  这大概是国内首个应用于CTF的工具框架。 可以被应用于CTF中的Crypto，Misc… 内置目前主流密码（包括但不限于维吉利亚密码，凯撒密码，栅栏密码······） 用户可自主编写插件，但仅支持Python">
+<meta name="twitter:image" content="http://oqz4ehyp7.bkt.clouddn.com/blog/20170720/200626242.png">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Mist',
+    sidebar: {"position":"left","display":"post","offset":12,"offset_float":0,"b2t":false,"scrollpercent":false},
+    fancybox: true,
+    motion: true,
+    duoshuo: {
+      userId: '0',
+      author: '博主'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="http://0chencc.github.io/2017/07/22/CTFCrackToolsV3-0发布/"/>
+
+
+
+
+
+  <title> CTFCrackToolsV3.0发布 | 假文人林晨和他的生活 </title>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail ">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">假文人林晨和他的生活</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <h1 class="site-subtitle" itemprop="description">写点有意思的东西.</h1>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
+            
+            分类
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-about">
+          <a href="/about" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-user"></i> <br />
+            
+            关于
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
+            
+            归档
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+            
+            标签
+          </a>
+        </li>
+      
+
+      
+    </ul>
+  
+
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="http://0chencc.github.io/2017/07/22/CTFCrackToolsV3-0发布/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="林晨">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="假文人林晨和他的生活">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h2 class="post-title" itemprop="name headline">
+            
+            
+              
+                CTFCrackToolsV3.0发布
+              
+            
+          </h2>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-07-22T23:35:07+08:00">
+                2017-07-22
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <h1 id="框架介绍"><a href="#框架介绍" class="headerlink" title="框架介绍"></a>框架介绍</h1><blockquote>
+<p>CTFcrackTools重置版</p>
+<p>作者：米斯特安全-林晨、摇摆、奶权</p>
+<p>米斯特安全团队首页：<a href="http://www.hi-ourlife.com/" target="_blank" rel="external">http://www.hi-ourlife.com/</a></p>
+<p>部分插件来源：希望团队-nMask</p>
+</blockquote>
+<p>这大概是国内首个应用于CTF的工具框架。</p>
+<p>可以被应用于CTF中的Crypto，Misc…</p>
+<p>内置目前主流密码（包括但不限于维吉利亚密码，凯撒密码，栅栏密码······）</p>
+<p>用户可自主编写插件，但仅支持Python编写插件。编写方法也极为简单。</p>
+<p>该项目一直在增强，这一次的重置只保留了部分核心代码，而将UI及优化代码重构，使这个框架支持更多功能。</p>
+<p>项目地址：<a href="https://github.com/0Chencc/CTFCrackTools" target="_blank" rel="external">https://github.com/0Chencc/CTFCrackTools</a></p>
+<h1 id="插件编写"><a href="#插件编写" class="headerlink" title="插件编写"></a>插件编写</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#-*- coding:utf-8 -*-</span></div><div class="line"><span class="string">'''</span></div><div class="line">&#123;</div><div class="line">  title:程序标题</div><div class="line">  type:程序类型</div><div class="line">  author:作者昵称</div><div class="line">  dialog:变量</div><div class="line">  detail:插件详情</div><div class="line">&#125;</div><div class="line">'''</div><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">main</span><span class="params">(a)</span>:</span></div><div class="line">    <span class="keyword">return</span> a</div></pre></td></tr></table></figure>
+<p>现在来具体讲下这些插件的用法，具体应该将下框架的调用方法。</p>
+<blockquote>
+<p>编码类型当然是utf-8啦</p>
+<p>Type:Crypto是一个硬性要求，因为我目前只写了Crypto的类，我打算在后期加上压缩包，图片的分类出来，慢慢完善。</p>
+<p>main的方法中，至少有一个变量，至多有四个变量。</p>
+<p>除了第一个变量以外的，都应该在Dialog后标明。</p>
+<p>Example：我们团队的奶权写了一个维基利亚密码的插件</p>
+</blockquote>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#!/usr/bin/env python</span></div><div class="line"><span class="comment"># -*- coding: utf-8 -*-</span></div><div class="line"><span class="string">'''</span></div><div class="line">&#123;</div><div class="line">Title:VigenereDecrypto</div><div class="line">Author:naiquan</div><div class="line">Type:crypto</div><div class="line">Dialog:key</div><div class="line">Detail:维吉利亚密码解码</div><div class="line">&#125;</div><div class="line">'''</div><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">vigenereDecrypto</span><span class="params">(ciphertext,key)</span>:</span></div><div class="line">    ascii=<span class="string">'ABCDEFGHIJKLMNOPQRSTUVWXYZ'</span></div><div class="line">    keylen=len(key)</div><div class="line">    ctlen=len(ciphertext)</div><div class="line">    plaintext = <span class="string">''</span></div><div class="line">    i = <span class="number">0</span></div><div class="line">    <span class="keyword">while</span> i &lt; ctlen:</div><div class="line">        j = i % keylen</div><div class="line">        k = ascii.index(key[j])</div><div class="line">        m = ascii.index(ciphertext[i])</div><div class="line">        <span class="keyword">if</span> m &lt; k:</div><div class="line">            m += <span class="number">26</span></div><div class="line">        plaintext += ascii[m-k]</div><div class="line">        i += <span class="number">1</span></div><div class="line">    <span class="keyword">return</span> plaintext</div><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">main</span><span class="params">(ciphertext,key)</span>:</span></div><div class="line">    <span class="keyword">return</span> vigenereDecrypto(ciphertext.replace(<span class="string">" "</span>,<span class="string">""</span>).upper(),key.replace(<span class="string">" "</span>,<span class="string">""</span>).upper())</div></pre></td></tr></table></figure>
+<p>这样写的话，框架就可以自行读取插件信息，然后会弹一个窗口请输入key。而ciphertext则是直接传入。</p>
+<p>如图：<img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170720/200626242.png" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170720/200644681.png" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170720/200655482.png" alt="mark"></p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">vigenereDecrypto</span><span class="params">(ciphertext,key)</span></span></div></pre></td></tr></table></figure>
+<p>ciphertext即是输入的内容，key是由弹窗出来由用户填写的。</p>
+<h1 id="界面介绍"><a href="#界面介绍" class="headerlink" title="界面介绍"></a>界面介绍</h1><p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170720/195650029.gif" alt="mark"></p>
+
+      
+    </div>
+
+    <div>
+      
+        
+
+      
+    </div>
+
+    <div>
+      
+        
+  <div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
+    <div>求打赏</div>
+    <button id="rewardButton" disable="enable" onclick="var qr = document.getElementById('QR'); if (qr.style.display === 'none') {qr.style.display='block';} else {qr.style.display='none'}">
+      <span>赏</span>
+    </button>
+    <div id="QR" style="display: none;">
+      
+        <div id="wechat" style="display: inline-block">
+          <img id="wechat_qr" src="/images/wechatpay.png" alt="林晨 WeChat Pay"/>
+          <p>微信打赏</p>
+        </div>
+      
+      
+        <div id="alipay" style="display: inline-block">
+          <img id="alipay_qr" src="/images/alipay.png" alt="林晨 Alipay"/>
+          <p>支付宝打赏</p>
+        </div>
+      
+    </div>
+  </div>
+
+
+      
+    </div>
+
+    <div>
+      
+        
+
+      
+    </div>
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/CTFCrackTools/" rel="tag"># CTFCrackTools</a>
+          
+            <a href="/tags/Java/" rel="tag"># Java</a>
+          
+            <a href="/tags/Python/" rel="tag"># Python</a>
+          
+            <a href="/tags/Jython/" rel="tag"># Jython</a>
+          
+            <a href="/tags/CTF/" rel="tag"># CTF</a>
+          
+        </div>
+      
+
+      
+        
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2017/07/15/中国古代富豪录第一章--商圣范蠡传/" rel="next" title="中国古代富豪录第一章--商圣范蠡传">
+                <i class="fa fa-chevron-left"></i> 中国古代富豪录第一章--商圣范蠡传
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2017/07/31/Python系列之--利用Python实现微博监控/" rel="prev" title="Python系列之--利用Python实现微博监控">
+                Python系列之--利用Python实现微博监控 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+  <div class="comments" id="comments">
+    
+  </div>
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap" >
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview">
+            站点概览
+          </li>
+        </ul>
+      
+
+      <section class="site-overview sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <img class="site-author-image" itemprop="image"
+               src="/images/avatar.gif"
+               alt="林晨" />
+          <p class="site-author-name" itemprop="name">林晨</p>
+           
+              <p class="site-description motion-element" itemprop="description"></p>
+           
+        </div>
+        <nav class="site-state motion-element">
+
+          
+            <div class="site-state-item site-state-posts">
+              <a href="/archives">
+                <span class="site-state-item-count">10</span>
+                <span class="site-state-item-name">日志</span>
+              </a>
+            </div>
+          
+
+          
+
+          
+            
+            
+            <div class="site-state-item site-state-tags">
+              <a href="/tags/index.html">
+                <span class="site-state-item-count">20</span>
+                <span class="site-state-item-name">标签</span>
+              </a>
+            </div>
+          
+
+        </nav>
+
+        
+          <div class="feed-link motion-element">
+            <a href="/atom.xml" rel="alternate">
+              <i class="fa fa-rss"></i>
+              RSS
+            </a>
+          </div>
+        
+
+        <div class="links-of-author motion-element">
+          
+            
+              <span class="links-of-author-item">
+                <a href="https://github.com/0chencc" target="_blank" title="Github">
+                  
+                    <i class="fa fa-fw fa-globe"></i>
+                  
+                  Github
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://www.zhihu.com/people/lin-chen-95-41/" target="_blank" title="Zhihu">
+                  
+                    <i class="fa fa-fw fa-globe"></i>
+                  
+                  Zhihu
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="tencent://message/?uin=627437686" target="_blank" title="QQ">
+                  
+                    <i class="fa fa-fw fa-qq"></i>
+                  
+                  QQ
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="Mraliefe" target="_blank" title="WeChat">
+                  
+                    <i class="fa fa-fw fa-wechat"></i>
+                  
+                  WeChat
+                </a>
+              </span>
+            
+          
+        </div>
+
+        
+        
+
+        
+        
+          <div class="links-of-blogroll motion-element links-of-blogroll-inline">
+            <div class="links-of-blogroll-title">
+              <i class="fa  fa-fw fa-globe"></i>
+              Links
+            </div>
+            <ul class="links-of-blogroll-list">
+              
+                <li class="links-of-blogroll-item">
+                  <a href="http://www.hi-ourlife.com/" title="米斯特安全团队" target="_blank">米斯特安全团队</a>
+                </li>
+              
+                <li class="links-of-blogroll-item">
+                  <a href="https://gh0stkey.github.io/" title="Vulkey's Blog" target="_blank">Vulkey's Blog</a>
+                </li>
+              
+                <li class="links-of-blogroll-item">
+                  <a href="https://0chencc.github.io/CTFCrackTools/" title="CTFCrackTools" target="_blank">CTFCrackTools</a>
+                </li>
+              
+            </ul>
+          </div>
+        
+
+        
+
+
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#框架介绍"><span class="nav-number">1.</span> <span class="nav-text">框架介绍</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#插件编写"><span class="nav-number">2.</span> <span class="nav-text">插件编写</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#界面介绍"><span class="nav-number">3.</span> <span class="nav-text">界面介绍</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright" >
+  
+  &copy; 
+  <span itemprop="copyrightYear">2017</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">林晨</span>
+</div>
+
+
+<div class="powered-by">
+  由 <a class="theme-link" href="https://hexo.io">Hexo</a> 强力驱动
+</div>
+
+<div class="theme-info">
+  主题 -
+  <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
+    NexT.Mist
+  </a>
+</div>
+
+
+        
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+
+  
+  <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+
+  
+  <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+
+  
+  <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.0"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.0"></script>
+
+
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.0"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.0"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.0"></script>
+
+
+
+  
+
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>

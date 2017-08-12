@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>假文人林晨和他的生活</title>
+  <subtitle>写点有意思的东西.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://0chencc.github.io/"/>
+  <updated>2017-08-12T12:11:34.017Z</updated>
+  <id>http://0chencc.github.io/</id>
+  
+  <author>
+    <name>林晨</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>米斯特安全团队俩周年纪念日</title>
+    <link href="http://0chencc.github.io/2017/08/14/%E7%B1%B3%E6%96%AF%E7%89%B9%E5%AE%89%E5%85%A8%E5%9B%A2%E9%98%9F%E4%BF%A9%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E6%97%A5/"/>
+    <id>http://0chencc.github.io/2017/08/14/米斯特安全团队俩周年纪念日/</id>
+    <published>2017-08-13T16:00:00.000Z</published>
+    <updated>2017-08-12T12:11:34.017Z</updated>
+    
+    <content type="html"><![CDATA[<p>我有幸在两年前创建了米斯特安全团队，有幸认识了这样的一帮大牛。他们有的人在我打算创建一番事业的时候出现，有的人在团队的一个巅峰的时候退出。</p>
+<p>两年时间其实如白驹过隙，转瞬消逝。仔细想起，我又想起了两年前与如今团队成员的对话，劝说他们跟我一起的场景。那个时候我们仅仅是想要做一个安全团队。</p>
+<p>我觉得时间最强大的地方是会不停地刷新你对未来的憧憬，刷新你对现实的认知。如今的我们，却想要做一番事业。在和合伙人谈论未来规划之后，我怀着无限憧憬，与gh0stkey，与奶权，与林奇，沟通了创业事宜。所幸，我们都是一类人，自然不必多说，很快约定好开业时间。</p>
+<p>我觉得这两年运营团队给我的感觉是：我们有很多不足，但不停在进步。我们都在这两年中成长，彼此共勉，互相学习。从一开始的毫无生气再到如今的天天交流，每个成员的付出都让我们汗颜，觉得无以回报。</p>
+<p>怎么说呢，很累。</p>
+<p>在团队的有一段时间运营不当的情况下，我和茉莉几近崩溃，曾一度想要解散团队重头再来，万幸的是，我们挺过来了。撑到了现在，撑到了我们有了如今的一番成就：有自己的公司。</p>
+<p>有人评价我们年少有为，我觉得我们尚且年少，但不足以谈有为。毕竟少年太得志，容易栽跟头。</p>
+<p>也有人诽谤我们，恨不得我和我的团队就此撑不住，我会反驳，会跟他们撕逼，会怒骂。我忍受不了幸苦经营的团队遭人侮辱，淮阴侯能受胯下之辱，但是我不想。</p>
+<p>今天8月14号，是我们团队成立两周年纪念日，是我们梦想初开的日子。我们曾无数次感慨：原来这么长的时间，我们都挺过来了呀。</p>
+<p>是啊，我们两年时间遭受了许多，终于挺过来了呀。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我有幸在两年前创建了米斯特安全团队，有幸认识了这样的一帮大牛。他们有的人在我打算创建一番事业的时候出现，有的人在团队的一个巅峰的时候退出。&lt;/p&gt;
+&lt;p&gt;两年时间其实如白驹过隙，转瞬消逝。仔细想起，我又想起了两年前与如今团队成员的对话，劝说他们跟我一起的场景。那个时候我们仅
+    
+    </summary>
+    
+    
+      <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+      <category term="米斯特安全团队" scheme="http://0chencc.github.io/tags/%E7%B1%B3%E6%96%AF%E7%89%B9%E5%AE%89%E5%85%A8%E5%9B%A2%E9%98%9F/"/>
+    
+      <category term="信息安全" scheme="http://0chencc.github.io/tags/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>8月7号杂笔</title>
+    <link href="http://0chencc.github.io/2017/08/07/8%E6%9C%887%E5%8F%B7%E6%9D%82%E7%AC%94/"/>
+    <id>http://0chencc.github.io/2017/08/07/8月7号杂笔/</id>
+    <published>2017-08-07T10:14:13.000Z</published>
+    <updated>2017-08-07T10:53:48.951Z</updated>
+    
+    <content type="html"><![CDATA[<p>近来事情还算是捋得还算是有点条理，设置了闹钟，早上准时6点24起，本来想设置在6点25，无奈手滑了一下，也懒得改。每天22点睡，6点24起床的作息还算是休息有当，不会太累。</p>
+<h1 id="关于安全圈"><a href="#关于安全圈" class="headerlink" title="关于安全圈"></a>关于安全圈</h1><p>昨晚跟他们吐槽现在的安全圈，一堆所谓安全圈的人，整天晒礼物，晒小卡片，晒在哪些大会见到哪些人。我猜这些人大概连议题讲的啥，是谁讲都不知道，更有甚者怕是连讲议题的会场大门都没跨进。</p>
+<p>除了个别卖面子的，比如之前在乌云大会。</p>
+<p>猪猪侠一出场，会场瞬间人群挤满，别提座无虚席，更是站无虚席，一堆人，拍个照，发个朋友圈，OK完事走人。</p>
+<p>“今天见到了猪猪侠，好开心”</p>
+<p>然后与伙伴面基，饭局时提起，说到：“诶，刚才那个议题讲得不错，你看了吗”“什么？什么议题。”</p>
+<p>我没本事参加国外大会，起码国内大会还是参加过几个的，现如今，大概安全大会变成了面基大会。</p>
+<p>分为三类人：议题演讲者，负责议题的，面基的。</p>
+<p>中国是个讲人情的社会，人情当然很重要，看我博客的大概也是出于人情，因为我博客什么都没有。正是因为人情重要，朋友圈里才会有一堆人晒大会参加邀请，这是每个人都会做的，我，你，他。我们都在受到每次邀请的时候发这样的内容，我们都必不可少，在照顾邀请者的脸面的同时发朋友圈以彰显自己也有面子受到了邀请。</p>
+<p>但是，我们能不能：</p>
+<p>尊重下议题的演讲者？</p>
+<p>每当哪个安全大会开幕，我的朋友圈永远都是：“求赞”、“哇，与XX见到了好开心”之类的。（你们真的踏过演讲会场的门槛吗）</p>
+<p>一群相对于好友量极其高的人，发这样的内容，给小白传播这样的气氛，这样做真的合适吗。尊重过议题的演讲者吗。</p>
+<p>这种大会上，面基的永远多于看演讲的。而那些观看演讲的，一直是高度深度远超我们的人。</p>
+<h1 id="关于家人"><a href="#关于家人" class="headerlink" title="关于家人"></a>关于家人</h1><p>昨天晚上看到了熔浆蛋糕，很想吃。突然灵光一闪发给了我妈，问我妈能不能做，我妈一般是很快回复的。</p>
+<p>在我说出蛋糕名之后，我妈突然一阵不在。我等了一会，又发了条消息，这时候她恰好发了一条这款蛋糕的做法给我，然后今天就着手买材料，打算等我回家之前做出来。</p>
+<p>有点暖…</p>
+<p>家里人最近给我的感触越来越多，很暖。因为是家里，不想在网上细说过多。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;近来事情还算是捋得还算是有点条理，设置了闹钟，早上准时6点24起，本来想设置在6点25，无奈手滑了一下，也懒得改。每天22点睡，6点24起床的作息还算是休息有当，不会太累。&lt;/p&gt;
+&lt;h1 id=&quot;关于安全圈&quot;&gt;&lt;a href=&quot;#关于安全圈&quot; class=&quot;headerl
+    
+    </summary>
+    
+    
+      <category term="杂记" scheme="http://0chencc.github.io/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+      <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python系列之--利用Python实现微博监控</title>
+    <link href="http://0chencc.github.io/2017/07/31/Python%E7%B3%BB%E5%88%97%E4%B9%8B--%E5%88%A9%E7%94%A8Python%E5%AE%9E%E7%8E%B0%E5%BE%AE%E5%8D%9A%E7%9B%91%E6%8E%A7/"/>
+    <id>http://0chencc.github.io/2017/07/31/Python系列之--利用Python实现微博监控/</id>
+    <published>2017-07-31T12:55:00.000Z</published>
+    <updated>2017-07-31T13:03:45.881Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="0x00-前言"><a href="#0x00-前言" class="headerlink" title="0x00 前言:"></a>0x00 前言:</h4><p><img src="http://i1.ciimg.com/602361/6d42627539f48ec3.png" alt="素材">前几个星期在写一个微博监控系统 可谓是一波三折啊 获取到微博后因为一些字符编码问题 导致心态爆炸开发中断 但是就在昨天发现了另外一个微博的接口  </p>
+<p>一个手机微博的接口<a href="https://m.weibo.cn/" target="_blank" rel="external">https://m.weibo.cn/</a> 经过一番测试后认为这个接口满足我的要求 就继续完成未完成的使命吧</p>
+<h4 id="0x01-分析"><a href="#0x01-分析" class="headerlink" title="0x01 分析:"></a>0x01 分析:</h4><p><img src="http://i1.ciimg.com/602361/3556aed5a00277f2.png" alt="素材">这个接口直接访问的话会有一个302跳转到一个登陆界面<br><img src="http://i1.ciimg.com/602361/7750485844244155.png" alt="Markdown"><br>也就是说这里需要先模拟登陆一下才可以访问到微博<br>抓个包分析了一下<br><img src="http://i1.ciimg.com/602361/1c5a2cc87e05b64c.png" alt="Markdown"><br>发现只要用户名和密码正确既返回200且json部分的retcode会返回20000000<br><img src="http://i1.ciimg.com/602361/a2cd14dc4bb4edb5.png" alt="素材">少了验证码这一大坑 那模拟登陆就相当简单啦  </p>
+<p>登陆完后访问用户主页 例如:<a href="https://m.weibo.cn/u/3023940914" target="_blank" rel="external">https://m.weibo.cn/u/3023940914</a><br>可以在审查元素的Network模块看到 这里用了两个xhr来加载用户信息及微博信息<br><img src="http://i2.tiimg.com/602361/926e38139300a5bf.png" alt="Markdown"><br><img src="http://i1.ciimg.com/602361/12f1bfeafeba4a7a.png" alt="素材">分别是<br><a href="https://m.weibo.cn/api/container/getIndex?type=uid&amp;value=3023940914&amp;containerid=1005053023940914" target="_blank" rel="external">https://m.weibo.cn/api/container/getIndex?type=uid&amp;value=3023940914&amp;containerid=1005053023940914</a><br><a href="https://m.weibo.cn/api/container/getIndex?type=uid&amp;value=3023940914&amp;containerid=1076033023940914" target="_blank" rel="external">https://m.weibo.cn/api/container/getIndex?type=uid&amp;value=3023940914&amp;containerid=1076033023940914</a><br>经过测试这个接口直接加上<strong>type</strong>和<strong>value</strong>参数访问 就相当于第一个接口 不必加上<strong>containerid</strong>参数<br>而第二个接口的<strong>containerid</strong>参数则是通过第一个接口获取的  </p>
+<p><img src="http://i1.ciimg.com/602361/3556aed5a00277f2.png" alt="素材">获取到第二个<strong>containerid</strong>参数访问第二个接口就可以获取到这个<strong>uid</strong>发布的微博了<br><img src="http://i1.ciimg.com/602361/70c99f77d40bf8ed.png" alt="Markdown"><br>返回的是json格式的数据 用户的微博信息都在<strong>cards</strong>列表里每条数据的<strong>mblog</strong>数组里面 包括<strong>微博正文、图片、来源与时间</strong>等<br><img src="http://i1.ciimg.com/602361/acef3c6c9e7e700e.png" alt="素材">其中<strong>card_type</strong>标识的是微博类型 例如:文字微博 图片微博 视频微博 转发等 经过测试文字微博和图片微博的<strong>card_type</strong>标识都一样为9  </p>
+<p>这里初步只开发监控文字和图片微博的功能<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div></pre></td><td class="code"><pre><div class="line"></div><div class="line">#### 0x02 开发</div><div class="line">![素材](http://i1.ciimg.com/602361/6869750adb42eee2.png)首先需要模拟登陆 后续的操作都需要基于登陆的格调来进行 也是需要在同个会话进行 可以使用**requests.session()** 方法来完成  </div><div class="line">代码片段:</div><div class="line">```Python</div><div class="line">reqHeaders = &#123;</div><div class="line">    &apos;User-Agent&apos;: &apos;Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0&apos;,</div><div class="line">    &apos;Content-Type&apos;: &apos;application/x-www-form-urlencoded&apos;,</div><div class="line">    &apos;Referer&apos;: &apos;https://passport.weibo.cn/signin/login&apos;,</div><div class="line">    &apos;Connection&apos;: &apos;close&apos;,</div><div class="line">    &apos;Accept-Language&apos;: &apos;zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3&apos;</div><div class="line">&#125;</div><div class="line">loginApi = &apos;https://passport.weibo.cn/sso/login&apos;</div><div class="line">loginPostData = &#123;</div><div class="line">    &apos;username&apos;:userName,</div><div class="line">    &apos;password&apos;:passWord,</div><div class="line">    &apos;savestate&apos;:1,</div><div class="line">    &apos;r&apos;:&apos;&apos;,</div><div class="line">    &apos;ec&apos;:&apos;0&apos;,</div><div class="line">    &apos;pagerefer&apos;:&apos;&apos;,</div><div class="line">    &apos;entry&apos;:&apos;mweibo&apos;,</div><div class="line">    &apos;wentry&apos;:&apos;&apos;,</div><div class="line">    &apos;loginfrom&apos;:&apos;&apos;,</div><div class="line">    &apos;client_id&apos;:&apos;&apos;,</div><div class="line">    &apos;code&apos;:&apos;&apos;,</div><div class="line">    &apos;qq&apos;:&apos;&apos;,</div><div class="line">    &apos;mainpageflag&apos;:1,</div><div class="line">    &apos;hff&apos;:&apos;&apos;,</div><div class="line">    &apos;hfp&apos;:&apos;&apos;</div><div class="line">&#125;</div><div class="line">#get user session</div><div class="line">session = requests.session()</div><div class="line">try:</div><div class="line">    r = session.post(loginApi,data=loginPostData,headers=reqHeaders)</div><div class="line">    if r.status_code == 200 and json.loads(r.text)[&apos;retcode&apos;] == 20000000:</div><div class="line">        #successful</div><div class="line">        #do someting</div><div class="line">    else:</div><div class="line">        #Logon failure!</div><div class="line">except Exception as e:</div><div class="line">    #Logon failure!</div></pre></td></tr></table></figure></p>
+<p><img src="http://i1.ciimg.com/602361/3b9a86501a0ae30b.png" alt="素材">登陆完成后就可以拼接用户id访问前面说的第一个接口了<br>访问完后再拼接<strong>containerid</strong>参数获取微博信息的json数据<br>代码片段:<br><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#get user weibo containerid</span></div><div class="line">userInfo <span class="string">'https://m.weibo.cn/api/container/getIndex?uid=%s&amp;type=uid&amp;value=%s'</span>%(wbUserId,wbUserId)</div><div class="line"><span class="keyword">try</span>:</div><div class="line">    r = session.get(userInfo,headers=reqHeaders)</div><div class="line">    <span class="keyword">for</span> i <span class="keyword">in</span> r.json()[<span class="string">'tabsInfo'</span>][<span class="string">'tabs'</span>]:</div><div class="line">        <span class="keyword">if</span> i[<span class="string">'tab_type'</span>] == <span class="string">'weibo'</span>:</div><div class="line">            conId = i[<span class="string">'containerid'</span>]</div><div class="line"><span class="keyword">except</span> Exception <span class="keyword">as</span> e:</div><div class="line">    <span class="comment">#failure!</span></div><div class="line"><span class="comment">#get user weibo index</span></div><div class="line">weiboInfo = <span class="string">'https://m.weibo.cn/api/container/getIndex?uid=%s&amp;type=uid&amp;value=%s&amp;containerid=%s'</span>%(wbUserId,wbUserId,conId)</div><div class="line"><span class="keyword">try</span>:</div><div class="line">    r = session.get(weiboInfo,headers=reqHeaders)</div><div class="line">    itemIds = []   <span class="comment">#WBQueue</span></div><div class="line">    <span class="keyword">for</span> i <span class="keyword">in</span> r.json()[<span class="string">'cards'</span>]:</div><div class="line">        <span class="keyword">if</span> i[<span class="string">'card_type'</span>] == <span class="number">9</span>:</div><div class="line">            itemIds.append(i[<span class="string">'mblog'</span>][<span class="string">'id'</span>])</div><div class="line"><span class="keyword">except</span> Exception <span class="keyword">as</span> e:</div><div class="line">    <span class="comment">#failure!</span></div></pre></td></tr></table></figure></p>
+<p><img src="http://i1.ciimg.com/602361/565c21f8e0a660b1.png" alt="素材">这里把所有获取到的微博的id存起来 后面继续访问是发现有新的微博id不在这个列表里就证明是新发布的微博<br>代码片段:<br><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">startMonitor</span><span class="params">()</span>:</span></div><div class="line">      returnDict = &#123;&#125;</div><div class="line">      <span class="keyword">try</span>:</div><div class="line">          r = session.get(weiboInfo,headers=reqHeaders)</div><div class="line">          <span class="keyword">for</span> i <span class="keyword">in</span> r.json()[<span class="string">'cards'</span>]:</div><div class="line">              <span class="keyword">if</span> i[<span class="string">'card_type'</span>] == <span class="number">9</span>:</div><div class="line">                  <span class="keyword">if</span> str(i[<span class="string">'mblog'</span>][<span class="string">'id'</span>]) <span class="keyword">not</span> <span class="keyword">in</span> itemIds:</div><div class="line">                      itemIds.append(i[<span class="string">'mblog'</span>][<span class="string">'id'</span>])</div><div class="line">                      <span class="comment">#Got a new weibo</span></div><div class="line">                      <span class="comment">#@ return returnDict dict</span></div><div class="line">                      returnDict[<span class="string">'created_at'</span>] = i[<span class="string">'mblog'</span>][<span class="string">'created_at'</span>]</div><div class="line">                      returnDict[<span class="string">'text'</span>] = i[<span class="string">'mblog'</span>][<span class="string">'text'</span>]</div><div class="line">                      returnDict[<span class="string">'source'</span>] = i[<span class="string">'mblog'</span>][<span class="string">'source'</span>]</div><div class="line">                      returnDict[<span class="string">'nickName'</span>] = i[<span class="string">'mblog'</span>][<span class="string">'user'</span>][<span class="string">'screen_name'</span>]</div><div class="line">                      <span class="comment">#if has photos</span></div><div class="line">                      <span class="keyword">if</span> i[<span class="string">'mblog'</span>].has_key(<span class="string">'pics'</span>):</div><div class="line">                          returnDict[<span class="string">'picUrls'</span>] = []</div><div class="line">                          <span class="keyword">for</span> j <span class="keyword">in</span> i[<span class="string">'mblog'</span>][<span class="string">'pics'</span>]:</div><div class="line">                              returnDict[<span class="string">'picUrls'</span>].append(j[<span class="string">'url'</span>])</div><div class="line">                      <span class="keyword">return</span> returnDict</div><div class="line">      <span class="keyword">except</span> Exception <span class="keyword">as</span> e:</div><div class="line">          <span class="comment">#failure!</span></div></pre></td></tr></table></figure></p>
+<p><img src="http://i1.ciimg.com/602361/8b469fd0042a4908.png" alt="素材">将这些方法封装成了一个类 完整代码如下<br><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div><div class="line">67</div><div class="line">68</div><div class="line">69</div><div class="line">70</div><div class="line">71</div><div class="line">72</div><div class="line">73</div><div class="line">74</div><div class="line">75</div><div class="line">76</div><div class="line">77</div><div class="line">78</div><div class="line">79</div><div class="line">80</div><div class="line">81</div><div class="line">82</div><div class="line">83</div><div class="line">84</div><div class="line">85</div><div class="line">86</div><div class="line">87</div><div class="line">88</div><div class="line">89</div><div class="line">90</div><div class="line">91</div><div class="line">92</div><div class="line">93</div><div class="line">94</div><div class="line">95</div><div class="line">96</div><div class="line">97</div><div class="line">98</div><div class="line">99</div><div class="line">100</div><div class="line">101</div><div class="line">102</div><div class="line">103</div><div class="line">104</div><div class="line">105</div><div class="line">106</div><div class="line">107</div><div class="line">108</div><div class="line">109</div><div class="line">110</div><div class="line">111</div><div class="line">112</div><div class="line">113</div><div class="line">114</div><div class="line">115</div><div class="line">116</div><div class="line">117</div><div class="line">118</div><div class="line">119</div><div class="line">120</div><div class="line">121</div><div class="line">122</div><div class="line">123</div><div class="line">124</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#!/usr/bin/env python</span></div><div class="line"><span class="comment"># -*- coding: utf-8 -*-</span></div><div class="line"><span class="comment"># Author    : 奶权</span></div><div class="line"><span class="comment"># Action    : 微博监控</span></div><div class="line"><span class="comment"># Desc      : 微博监控主模块</span></div><div class="line"></div><div class="line"><span class="keyword">import</span> requests,json,sys</div><div class="line"><span class="keyword">from</span> lxml <span class="keyword">import</span> etree</div><div class="line"></div><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">weiboMonitor</span><span class="params">()</span>:</span></div><div class="line">    <span class="string">"""</span></div><div class="line">        @   Class self  :</div><div class="line">    """</div><div class="line">    <span class="function"><span class="keyword">def</span> <span class="title">__init__</span><span class="params">(self, )</span>:</span></div><div class="line">        self.session = requests.session()</div><div class="line">        self.reqHeaders = &#123;</div><div class="line">            <span class="string">'User-Agent'</span>: <span class="string">'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0'</span>,</div><div class="line">            <span class="string">'Content-Type'</span>: <span class="string">'application/x-www-form-urlencoded'</span>,</div><div class="line">            <span class="string">'Referer'</span>: <span class="string">'https://passport.weibo.cn/signin/login'</span>,</div><div class="line">            <span class="string">'Connection'</span>: <span class="string">'close'</span>,</div><div class="line">            <span class="string">'Accept-Language'</span>: <span class="string">'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3'</span></div><div class="line">        &#125;</div><div class="line"></div><div class="line">    <span class="string">"""</span></div><div class="line">        @   Class self  :</div><div class="line">        @   String userName  : The username of weibo.cn</div><div class="line">        @   String passWord  : The password of weibo.cn</div><div class="line">    """</div><div class="line">    <span class="function"><span class="keyword">def</span> <span class="title">login</span><span class="params">(self, userName, passWord)</span>:</span></div><div class="line">        loginApi = <span class="string">'https://passport.weibo.cn/sso/login'</span></div><div class="line">        loginPostData = &#123;</div><div class="line">            <span class="string">'username'</span>:userName,</div><div class="line">            <span class="string">'password'</span>:passWord,</div><div class="line">            <span class="string">'savestate'</span>:<span class="number">1</span>,</div><div class="line">            <span class="string">'r'</span>:<span class="string">''</span>,</div><div class="line">            <span class="string">'ec'</span>:<span class="string">'0'</span>,</div><div class="line">            <span class="string">'pagerefer'</span>:<span class="string">''</span>,</div><div class="line">            <span class="string">'entry'</span>:<span class="string">'mweibo'</span>,</div><div class="line">            <span class="string">'wentry'</span>:<span class="string">''</span>,</div><div class="line">            <span class="string">'loginfrom'</span>:<span class="string">''</span>,</div><div class="line">            <span class="string">'client_id'</span>:<span class="string">''</span>,</div><div class="line">            <span class="string">'code'</span>:<span class="string">''</span>,</div><div class="line">            <span class="string">'qq'</span>:<span class="string">''</span>,</div><div class="line">            <span class="string">'mainpageflag'</span>:<span class="number">1</span>,</div><div class="line">            <span class="string">'hff'</span>:<span class="string">''</span>,</div><div class="line">            <span class="string">'hfp'</span>:<span class="string">''</span></div><div class="line">        &#125;</div><div class="line">        <span class="comment">#get user session</span></div><div class="line">        <span class="keyword">try</span>:</div><div class="line">            r = self.session.post(loginApi,data=loginPostData,headers=self.reqHeaders)</div><div class="line">            <span class="keyword">if</span> r.status_code == <span class="number">200</span> <span class="keyword">and</span> json.loads(r.text)[<span class="string">'retcode'</span>] == <span class="number">20000000</span>:</div><div class="line">                self.echoMsg(<span class="string">'Info'</span>,<span class="string">'Login successful! UserId:'</span>+json.loads(r.text)[<span class="string">'data'</span>][<span class="string">'uid'</span>])</div><div class="line">            <span class="keyword">else</span>:</div><div class="line">                self.echoMsg(<span class="string">'Error'</span>,<span class="string">'Logon failure!'</span>)</div><div class="line">                sys.exit()</div><div class="line">        <span class="keyword">except</span> Exception <span class="keyword">as</span> e:</div><div class="line">            self.echoMsg(<span class="string">'Error'</span>,e)</div><div class="line">            sys.exit()</div><div class="line"></div><div class="line">    <span class="string">"""</span></div><div class="line">        @   Class self  :</div><div class="line">        @   String wbUserId  : The user you want to monitored</div><div class="line">    """</div><div class="line">    <span class="function"><span class="keyword">def</span> <span class="title">getWBQueue</span><span class="params">(self, wbUserId)</span>:</span></div><div class="line">        <span class="comment">#get user weibo containerid</span></div><div class="line">        userInfo = <span class="string">'https://m.weibo.cn/api/container/getIndex?uid=%s&amp;type=uid&amp;value=%s'</span>%(wbUserId,wbUserId)</div><div class="line">        <span class="keyword">try</span>:</div><div class="line">            r = self.session.get(userInfo,headers=self.reqHeaders)</div><div class="line">            <span class="keyword">for</span> i <span class="keyword">in</span> r.json()[<span class="string">'tabsInfo'</span>][<span class="string">'tabs'</span>]:</div><div class="line">                <span class="keyword">if</span> i[<span class="string">'tab_type'</span>] == <span class="string">'weibo'</span>:</div><div class="line">                    conId = i[<span class="string">'containerid'</span>]</div><div class="line">        <span class="keyword">except</span> Exception <span class="keyword">as</span> e:</div><div class="line">            self.echoMsg(<span class="string">'Error'</span>,e)</div><div class="line">            sys.exit()</div><div class="line">        <span class="comment">#get user weibo index</span></div><div class="line">        self.weiboInfo = <span class="string">'https://m.weibo.cn/api/container/getIndex?uid=%s&amp;type=uid&amp;value=%s&amp;containerid=%s'</span>%(wbUserId,wbUserId,conId)</div><div class="line">        <span class="keyword">try</span>:</div><div class="line">            r = self.session.get(self.weiboInfo,headers=self.reqHeaders)</div><div class="line">            self.itemIds = []   <span class="comment">#WBQueue</span></div><div class="line">            <span class="keyword">for</span> i <span class="keyword">in</span> r.json()[<span class="string">'cards'</span>]:</div><div class="line">                <span class="keyword">if</span> i[<span class="string">'card_type'</span>] == <span class="number">9</span>:</div><div class="line">                    self.itemIds.append(i[<span class="string">'mblog'</span>][<span class="string">'id'</span>])</div><div class="line">            self.echoMsg(<span class="string">'Info'</span>,<span class="string">'Got weibos'</span>)</div><div class="line">            self.echoMsg(<span class="string">'Info'</span>,<span class="string">'Has %d id(s)'</span>%len(self.itemIds))</div><div class="line">        <span class="keyword">except</span> Exception <span class="keyword">as</span> e:</div><div class="line">            self.echoMsg(<span class="string">'Error'</span>,e)</div><div class="line">            sys.exit()</div><div class="line">    <span class="string">"""</span></div><div class="line">        @   Class self  :</div><div class="line">    """</div><div class="line">    <span class="function"><span class="keyword">def</span> <span class="title">startMonitor</span><span class="params">(self, )</span>:</span></div><div class="line">        returnDict = &#123;&#125;</div><div class="line">        <span class="keyword">try</span>:</div><div class="line">            r = self.session.get(self.weiboInfo,headers=self.reqHeaders)</div><div class="line">            <span class="keyword">for</span> i <span class="keyword">in</span> r.json()[<span class="string">'cards'</span>]:</div><div class="line">                <span class="keyword">if</span> i[<span class="string">'card_type'</span>] == <span class="number">9</span>:</div><div class="line">                    <span class="keyword">if</span> str(i[<span class="string">'mblog'</span>][<span class="string">'id'</span>]) <span class="keyword">not</span> <span class="keyword">in</span> self.itemIds:</div><div class="line">                        self.itemIds.append(i[<span class="string">'mblog'</span>][<span class="string">'id'</span>])</div><div class="line">                        self.echoMsg(<span class="string">'Info'</span>,<span class="string">'Got a new weibo'</span>)</div><div class="line">                        <span class="comment">#@ return returnDict dict</span></div><div class="line">                        returnDict[<span class="string">'created_at'</span>] = i[<span class="string">'mblog'</span>][<span class="string">'created_at'</span>]</div><div class="line">                        returnDict[<span class="string">'text'</span>] = i[<span class="string">'mblog'</span>][<span class="string">'text'</span>]</div><div class="line">                        returnDict[<span class="string">'source'</span>] = i[<span class="string">'mblog'</span>][<span class="string">'source'</span>]</div><div class="line">                        returnDict[<span class="string">'nickName'</span>] = i[<span class="string">'mblog'</span>][<span class="string">'user'</span>][<span class="string">'screen_name'</span>]</div><div class="line">                        <span class="comment">#if has photos</span></div><div class="line">                        <span class="keyword">if</span> i[<span class="string">'mblog'</span>].has_key(<span class="string">'pics'</span>):</div><div class="line">                            returnDict[<span class="string">'picUrls'</span>] = []</div><div class="line">                            <span class="keyword">for</span> j <span class="keyword">in</span> i[<span class="string">'mblog'</span>][<span class="string">'pics'</span>]:</div><div class="line">                                returnDict[<span class="string">'picUrls'</span>].append(j[<span class="string">'url'</span>])</div><div class="line">                        <span class="keyword">return</span> returnDict</div><div class="line">            self.echoMsg(<span class="string">'Info'</span>,<span class="string">'Has %d id(s)'</span>%len(self.itemIds))</div><div class="line">        <span class="keyword">except</span> Exception <span class="keyword">as</span> e:</div><div class="line">            self.echoMsg(<span class="string">'Error'</span>,e)</div><div class="line">            sys.exit()</div><div class="line"></div><div class="line">    <span class="string">"""</span></div><div class="line">        @   String level   : Info/Error</div><div class="line">        @   String msg     : The message you want to show</div><div class="line">    """</div><div class="line">    <span class="function"><span class="keyword">def</span> <span class="title">echoMsg</span><span class="params">(self, level, msg)</span>:</span></div><div class="line">        <span class="keyword">if</span> level == <span class="string">'Info'</span>:</div><div class="line">            <span class="keyword">print</span> <span class="string">'[Info] %s'</span>%msg</div><div class="line">        <span class="keyword">elif</span> level == <span class="string">'Error'</span>:</div><div class="line">            <span class="keyword">print</span> <span class="string">'[Error] %s'</span>%msg</div></pre></td></tr></table></figure></p>
+<p><img src="http://i1.ciimg.com/602361/12f1bfeafeba4a7a.png" alt="素材">写了个一发现有新微博就发邮件提醒的功能 完整代码见Github地址 <a href="https://github.com/naiquann/WBMonitor" target="_blank" rel="external">https://github.com/naiquann/WBMonitor</a>  </p>
+<h4 id="0x03-测试"><a href="#0x03-测试" class="headerlink" title="0x03 测试"></a>0x03 测试</h4><p><img src="http://i1.ciimg.com/602361/5b5dd2f6476c629e.png" alt="素材">运行代码<br><img src="http://i2.tiimg.com/602361/6414331da5040752.png" alt="Markdown"><br>填写完相关的登陆信息及要监控的用户的id后<br><img src="http://i2.tiimg.com/602361/4c933175b8562773.png" alt="Markdown"><br><img src="http://i1.ciimg.com/602361/6d42627539f48ec3.png" alt="素材">这里写了一个心跳包 每三秒访问一次看看有没有新微博发布<br>测试的时候这样比较方便 要是拿来用的话可以酌情增加间隔时间  </p>
+<p><img src="http://i1.ciimg.com/602361/7bcbe6e02e0171d7.png" alt="素材">当有微博发布的时候<br><img src="http://i2.tiimg.com/602361/ee6b842aed3efef8.png" alt="Markdown"><br><img src="http://i2.tiimg.com/602361/84396f4e9b8dc7c0.png" alt="Markdown"><br><img src="http://i1.ciimg.com/602361/7bcbe6e02e0171d7.png" alt="素材">大功告成啦 监控小姐姐的微博去喽~  </p>
+<blockquote>
+<p>本文作者:奶权#米斯特安全团队 转载请注明出处</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;0x00-前言&quot;&gt;&lt;a href=&quot;#0x00-前言&quot; class=&quot;headerlink&quot; title=&quot;0x00 前言:&quot;&gt;&lt;/a&gt;0x00 前言:&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;http://i1.ciimg.com/602361/6d42627539f
+    
+    </summary>
+    
+    
+      <category term="Python" scheme="http://0chencc.github.io/tags/Python/"/>
+    
+      <category term="爬虫" scheme="http://0chencc.github.io/tags/%E7%88%AC%E8%99%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CTFCrackToolsV3.0发布</title>
+    <link href="http://0chencc.github.io/2017/07/22/CTFCrackToolsV3-0%E5%8F%91%E5%B8%83/"/>
+    <id>http://0chencc.github.io/2017/07/22/CTFCrackToolsV3-0发布/</id>
+    <published>2017-07-22T15:35:07.000Z</published>
+    <updated>2017-07-22T15:54:54.910Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="框架介绍"><a href="#框架介绍" class="headerlink" title="框架介绍"></a>框架介绍</h1><blockquote>
+<p>CTFcrackTools重置版</p>
+<p>作者：米斯特安全-林晨、摇摆、奶权</p>
+<p>米斯特安全团队首页：<a href="http://www.hi-ourlife.com/" target="_blank" rel="external">http://www.hi-ourlife.com/</a></p>
+<p>部分插件来源：希望团队-nMask</p>
+</blockquote>
+<p>这大概是国内首个应用于CTF的工具框架。</p>
+<p>可以被应用于CTF中的Crypto，Misc…</p>
+<p>内置目前主流密码（包括但不限于维吉利亚密码，凯撒密码，栅栏密码······）</p>
+<p>用户可自主编写插件，但仅支持Python编写插件。编写方法也极为简单。</p>
+<p>该项目一直在增强，这一次的重置只保留了部分核心代码，而将UI及优化代码重构，使这个框架支持更多功能。</p>
+<p>项目地址：<a href="https://github.com/0Chencc/CTFCrackTools" target="_blank" rel="external">https://github.com/0Chencc/CTFCrackTools</a></p>
+<h1 id="插件编写"><a href="#插件编写" class="headerlink" title="插件编写"></a>插件编写</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#-*- coding:utf-8 -*-</span></div><div class="line"><span class="string">'''</span></div><div class="line">&#123;</div><div class="line">  title:程序标题</div><div class="line">  type:程序类型</div><div class="line">  author:作者昵称</div><div class="line">  dialog:变量</div><div class="line">  detail:插件详情</div><div class="line">&#125;</div><div class="line">'''</div><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">main</span><span class="params">(a)</span>:</span></div><div class="line">    <span class="keyword">return</span> a</div></pre></td></tr></table></figure>
+<p>现在来具体讲下这些插件的用法，具体应该将下框架的调用方法。</p>
+<blockquote>
+<p>编码类型当然是utf-8啦</p>
+<p>Type:Crypto是一个硬性要求，因为我目前只写了Crypto的类，我打算在后期加上压缩包，图片的分类出来，慢慢完善。</p>
+<p>main的方法中，至少有一个变量，至多有四个变量。</p>
+<p>除了第一个变量以外的，都应该在Dialog后标明。</p>
+<p>Example：我们团队的奶权写了一个维基利亚密码的插件</p>
+</blockquote>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#!/usr/bin/env python</span></div><div class="line"><span class="comment"># -*- coding: utf-8 -*-</span></div><div class="line"><span class="string">'''</span></div><div class="line">&#123;</div><div class="line">Title:VigenereDecrypto</div><div class="line">Author:naiquan</div><div class="line">Type:crypto</div><div class="line">Dialog:key</div><div class="line">Detail:维吉利亚密码解码</div><div class="line">&#125;</div><div class="line">'''</div><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">vigenereDecrypto</span><span class="params">(ciphertext,key)</span>:</span></div><div class="line">    ascii=<span class="string">'ABCDEFGHIJKLMNOPQRSTUVWXYZ'</span></div><div class="line">    keylen=len(key)</div><div class="line">    ctlen=len(ciphertext)</div><div class="line">    plaintext = <span class="string">''</span></div><div class="line">    i = <span class="number">0</span></div><div class="line">    <span class="keyword">while</span> i &lt; ctlen:</div><div class="line">        j = i % keylen</div><div class="line">        k = ascii.index(key[j])</div><div class="line">        m = ascii.index(ciphertext[i])</div><div class="line">        <span class="keyword">if</span> m &lt; k:</div><div class="line">            m += <span class="number">26</span></div><div class="line">        plaintext += ascii[m-k]</div><div class="line">        i += <span class="number">1</span></div><div class="line">    <span class="keyword">return</span> plaintext</div><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">main</span><span class="params">(ciphertext,key)</span>:</span></div><div class="line">    <span class="keyword">return</span> vigenereDecrypto(ciphertext.replace(<span class="string">" "</span>,<span class="string">""</span>).upper(),key.replace(<span class="string">" "</span>,<span class="string">""</span>).upper())</div></pre></td></tr></table></figure>
+<p>这样写的话，框架就可以自行读取插件信息，然后会弹一个窗口请输入key。而ciphertext则是直接传入。</p>
+<p>如图：<img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170720/200626242.png" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170720/200644681.png" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170720/200655482.png" alt="mark"></p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">vigenereDecrypto</span><span class="params">(ciphertext,key)</span></span></div></pre></td></tr></table></figure>
+<p>ciphertext即是输入的内容，key是由弹窗出来由用户填写的。</p>
+<h1 id="界面介绍"><a href="#界面介绍" class="headerlink" title="界面介绍"></a>界面介绍</h1><p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170720/195650029.gif" alt="mark"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;框架介绍&quot;&gt;&lt;a href=&quot;#框架介绍&quot; class=&quot;headerlink&quot; title=&quot;框架介绍&quot;&gt;&lt;/a&gt;框架介绍&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;CTFcrackTools重置版&lt;/p&gt;
+&lt;p&gt;作者：米斯特安全-林晨、摇摆、奶权&lt;/p&gt;
+&lt;p&gt;
+    
+    </summary>
+    
+    
+      <category term="CTFCrackTools" scheme="http://0chencc.github.io/tags/CTFCrackTools/"/>
+    
+      <category term="Java" scheme="http://0chencc.github.io/tags/Java/"/>
+    
+      <category term="Python" scheme="http://0chencc.github.io/tags/Python/"/>
+    
+      <category term="Jython" scheme="http://0chencc.github.io/tags/Jython/"/>
+    
+      <category term="CTF" scheme="http://0chencc.github.io/tags/CTF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>中国古代富豪录第一章--商圣范蠡传</title>
+    <link href="http://0chencc.github.io/2017/07/15/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%AF%8C%E8%B1%AA%E5%BD%95%E7%AC%AC%E4%B8%80%E7%AB%A0--%E5%95%86%E5%9C%A3%E8%8C%83%E8%A0%A1%E4%BC%A0/"/>
+    <id>http://0chencc.github.io/2017/07/15/中国古代富豪录第一章--商圣范蠡传/</id>
+    <published>2017-07-15T09:00:00.000Z</published>
+    <updated>2017-07-22T10:21:45.131Z</updated>
+    
+    <content type="html"><![CDATA[<p>前言：我想试试写一部中国古代富豪录，扒一扒古时富豪的史实，关于他们为人处世，当时地位，以及很多趣闻。不定期更新，请等候。</p>
+<blockquote>
+<p>范蠡是春秋时期时越国大夫，即是我们众所周知的越王勾践的臣子。与他一起辅佐勾践的有：大夫文种。</p>
+<p>因为范蠡被称为古代商圣，有着“十九年中三致千金”的传说。所以我认为中国古代富豪录应该是在范君开始写…</p>
+</blockquote>
+<h1 id="范蠡一生概要"><a href="#范蠡一生概要" class="headerlink" title="范蠡一生概要"></a>范蠡一生概要</h1><p>与姜子牙，诸葛亮，张衡，张仲景并称“南阳五圣”、后世推崇“财神”“商圣”</p>
+<p>春秋时期越国谋士，辅佐越王勾践灭吴国。</p>
+<p>三散家财而至巨贾，世人言富首推陶朱公。</p>
+<p>当时首富，因为经商能力很强，被齐国聘用为相。</p>
+<p>春秋时期楚国宛地三户（今河南淅川县滔河乡）人，葬于陶，今山东菏泽定陶区。</p>
+<p>公元前536年—公元前448年，88岁，很长寿。</p>
+<p>他是范姓始祖范武子的玄孙，并被视为顺阳范氏之先祖。</p>
+<h1 id="范君辅越灭吴国"><a href="#范君辅越灭吴国" class="headerlink" title="范君辅越灭吴国"></a>范君辅越灭吴国</h1><p>很多人都在提到三千越甲可吞吴的励志段子，也都在感叹勾践卧薪尝胆必灭吴的毅力。</p>
+<p>实际上，这件事是这样的：</p>
+<h2 id="前因"><a href="#前因" class="headerlink" title="前因"></a>前因</h2><p>吴王阖庐(夫差的父亲)接到消息，说越王允常(勾践的父亲)死了，于是派兵袭击越国。</p>
+<blockquote>
+<p>元年，吴王阖庐闻允常死，乃兴师伐越。–《史记·越王勾践世家》</p>
+</blockquote>
+<p>越王勾践在未经历国破家亡之前，其实不算是个很厉害的君主，但是他狠，也正是这股狠劲造就了他的以后。在阖庐袭击越国之时，勾践也不怂，接连派遣死士冲破吴军包围。连续俩次都失败了。</p>
+<p>聪明的勾践想了个狠招，派遣违反军令的带罪将士：</p>
+<blockquote>
+<p>“三行，至吴陈，呼而自刭”–《史记·越王勾践世家》</p>
+</blockquote>
+<p>也就是列成三行，走到吴军阵前，全部自杀。吴军将帅全都看傻眼了，勾践当即命令将领袭击吴军，后来大破吴国军队，阖庐被射伤，败逃，又因为伤势太重，死在了陉地。这就是吴越的历史上有名的”槜李之战”。</p>
+<p>阖庐在临终时告诉他的孩子夫差:”一定不要忘了越国的仇恨”</p>
+<blockquote>
+<p>吴败于槜李，射伤吴王阖庐，阖庐且死，告其子夫差曰：“必毋忘越。”–《史记·越王勾践世家》</p>
+</blockquote>
+<h2 id="范蠡入越"><a href="#范蠡入越" class="headerlink" title="范蠡入越"></a>范蠡入越</h2><p>我们的主角——范蠡，已经准备出场了。</p>
+<p>最开始的时候，范蠡居住在楚国，字少伯，以前的名字叫范伯，因为伯字，所以应该是家中老大。</p>
+<p>和古代那些名留青史一样，范蠡小时候也是一个很奇怪的孩子。</p>
+<blockquote>
+<p>自谓衰贱，未尝世禄，故自菲薄。饮食则甘天下之无昧，居则安天下之贱位。复被发佯狂，不与于世。</p>
+<p>–《越绝书》</p>
+</blockquote>
+<p>即是小时候他自认为出身贫穷，也并非世世代代为官，故此而自卑。以天下间没有味道的食物为甘甜，以天下间最贫贱的位置为安逸。</p>
+<p>夹杂着疯疯癫癫，披头散发，不参与世事。(别看不起自己啊大哥，三千越甲可吞吴可是你造的)</p>
+<p>对，没错。每当史书记载这种人的时候，你就可以知道，这样的人成长起来以后绝对会很牛逼。比如刚出生满屋子发红光的明太祖朱元璋，比如走路两条龙跟着的南宋武帝刘裕，比如大腿七十二颗黑痣的汉高祖刘邦·····</p>
+<p>这些都是奇人啊！</p>
+<p>那时候的范蠡算到吴越之地有霸王之气，拉着好基友文种一起去投奔吴国，但是好基友文种也是当时的谋士，算的也多，文种和冯同一起告诫范蠡说：吴国那块小圈子，已经是伍子胥说了算了，你去了反而给自己找不自在。老铁还是找别的地方吧。</p>
+<p>范蠡一想：没毛病呀老铁。吴国越国都在一块，有相同的风气和习俗，地门的位置不是在吴国就是在越国。</p>
+<p>然后范蠡和文种两个好基友就一起去了越国，到越国后，越王勾践几乎天天找他们聊天，越聊越过瘾，觉得是有用之才，于是就得到了重用。</p>
+<h2 id="夫差破越，勾践卧薪尝胆"><a href="#夫差破越，勾践卧薪尝胆" class="headerlink" title="夫差破越，勾践卧薪尝胆"></a>夫差破越，勾践卧薪尝胆</h2><p>在阖庐死后，夫差为了报仇。练兵三年。勾践听说了这个消息，想要趁着他们还没发兵快人一步夺取先机。范蠡急忙劝诫，阻止勾践发兵，但是当时勾践正处于骄傲自满的时期，想要再来一次檇李大捷，于是不理范蠡的建议。执意发兵。</p>
+<p>果然不出范君所料，勾践大败于会稽山。但是我们的商圣范蠡怎么可能不会做生意呢，他收买了夫差的太监，表示愿意倾尽所有，只要保全勾践的性命。而当时吴国正值太监当道，所以范蠡收买太监也刚好能做到救出勾践。</p>
+<p>在夫差大破越国之后，夫差大概是以为已经复仇了，开始骄傲自满。倘若他没有骄气，勾践也不可能能有后来的三千越甲吞吴，在当时的谋士中，伍子胥算是很厉害的谋士，但是夫差不肯用。</p>
+<p>伍子胥提议杀了勾践，免得以后后悔。但是夫差骄傲气满，不肯采纳他的建议。</p>
+<blockquote>
+<p>越王谓范蠡曰：“以不听子故至于此，为之奈何？”蠡对曰：“持满者与天，定倾者与人，节事者以地。卑辞厚礼以遗之，不许，而身与之市。”勾践曰：“诺。”乃令大夫种行成于吴，膝行顿首曰：“君王亡臣勾践使陪臣种敢告下执事：勾践请为臣，妻为妾。”吴王将许之。子胥言于吴王曰：“天以越赐吴，勿许也。”种还，以报勾践。勾践欲杀妻子，燔宝器，触战以死。种止勾践曰：“夫吴太宰嚭贪，可诱以利，请间行言之。”于是勾践乃以美女宝器令种间献吴太宰嚭。嚭受，乃见大夫种于吴王。种顿首言曰：“愿大王赦勾践之罪，尽入其宝器。不幸不赦，勾践将尽杀其妻子，燔其宝器，悉五千人触战必有当也。”嚭因说吴王曰：“越以服为臣，若将赦之，此国之利也。”吴王将许之。子胥进谏曰：“今不灭越，后必悔之。勾践贤君，种、蠡良臣，若反国，将为乱。”吴王弗听，卒赦越，罢兵而归。</p>
+<p>–《史记·越王勾践世家》</p>
+</blockquote>
+<p>直到国破才想起来范蠡的好，终于肯听范蠡的意见。当时有计然南游到越国，收范蠡为徒，并传给范蠡七计。此后“越兴三绝”就这样形成了：范蠡，计然，文种。</p>
+<p>范蠡主兵，文种主政，计然不在二者中，主财。</p>
+<p>范蠡曾让计然留在越国，而计然告诉范蠡：“越王为人，长颈鸟喙，可与共患难，不可与共荣乐。”（这句话也在后来由范蠡写信送给文种）</p>
+<p>勾践就到夫差那里打工，接着就发生了大家都知道的“卧薪尝胆”。</p>
+<p>三千越甲终吞吴，此间勾践用了范蠡五计，文种三计。</p>
+<p>范蠡在后来所叹道：“计然之策七，越用其五而得意。既已施于国，吾欲用之家。”</p>
+<p>其实勾践夫差都是一个尿性，打赢了就自满，打不过就去打工。夫差在战败后向勾践申请打工，范蠡怕王图霸业就这样翻车，在勾践面前止喝退使者，后来把夫差逼到自杀。</p>
+<h2 id="狡兔死，走狗烹。飞鸟尽，良弓藏。"><a href="#狡兔死，走狗烹。飞鸟尽，良弓藏。" class="headerlink" title="狡兔死，走狗烹。飞鸟尽，良弓藏。"></a>狡兔死，走狗烹。飞鸟尽，良弓藏。</h2><p>范蠡由计然的提醒，了解到越王勾践是一个什么人了，在他和好友文种协助勾践灭吴之后，他就直接离开越国到了齐国，开始在齐国做生意。期间发了一封信给还在越国的好友文种，说：“越王勾践此人，只能与他共患难，但不可以跟他同享福。为什么你还不离开？”</p>
+<blockquote>
+<p>蜚鸟尽，良弓藏；狡兔死，走狗烹。越王为人长颈鸟喙，可与共患难，不可与共乐。子何不去？</p>
+<p>–《史记·越王勾践世家》</p>
+</blockquote>
+<p>在未来的后世中，有位名叫韩信的无双国士，在被刘邦擒住之时，也曾喊出这句话“狡兔死，走狗烹。飞鸟尽，良弓藏。”大概未来的韩信和如今文种所想是一样的：我是立了大功，再怎么样他也不会杀我的。</p>
+<blockquote>
+<p>韩信犹豫不忍倍汉，又自以为功多，汉终不夺我齐，遂谢蒯通–《史记·淮阴侯列传》</p>
+<p>信方斩，曰：“吾悔不用蒯通之计，乃为儿女子所诈，岂非天哉！”遂夷信三族。–《史记·淮阴侯列传》</p>
+</blockquote>
+<p>（韩信自持功劳盖世，刘邦不会对他动手。可是古今帝王最害怕的就是这种功劳盖世的功臣。直到韩信要被处斩之时方才大喊后悔不听谋士蒯彻的话，喊出了他的不甘。）</p>
+<p>但是大夫文种却也知道范蠡的话不无道理，当年勾践没有经历过国破之时，他们两个人劝谏勾践很少有听，而在经历国破之后，却哭着喊着要他们两人协助他。于是大夫文种称病不上朝。</p>
+<p>当时的帝业基本都是这样，吕后杀韩信，嬴政杀白起。为君王谋划帝业者，功成即身退，不退则杀。</p>
+<p>史书的记载是在后来有人诬陷文种要作乱，但是我认为有人诬陷只是一个幌子，杀文种才是真正的意图。</p>
+<blockquote>
+<p>子教寡人伐吴七术，寡人用其三而败吴，其四在子，子为我从先王试之。</p>
+<p>–《史记·越王勾践世家》</p>
+</blockquote>
+<p>“你曾经教了我七条伐吴的方法，我用了其中三条就打败了吴国，剩下的四条在你那里，你先到先王那里帮我试一下吧。”这是勾践对文种所说的最后一句话，文种又怎么听不出来是什么意思。</p>
+<p>只用三条便可灭吴，剩下的四条倘若被哪个高层比如文种这样的人用来伐越，越国又如何不亡。若要是被别国君王拿到了呢？于是文种自杀。</p>
+<p>范蠡的好友文种都是如此贤才，身为能劝文种走，为勾践掌兵灭吴的范蠡又怎么会不如他呢？</p>
+<h1 id="化名陶朱公，三散家财而成巨贾"><a href="#化名陶朱公，三散家财而成巨贾" class="headerlink" title="化名陶朱公，三散家财而成巨贾"></a>化名陶朱公，三散家财而成巨贾</h1><blockquote>
+<p>范蠡既雪会稽之耻，乃喟然而叹曰：“计然之策七，越用其五而得意。既已施于国，吾欲用之家。”乃乘扁舟浮于江湖，变名易姓，适齐为鸱夷子皮，之陶为朱公。朱公以为陶天下之中，诸侯四通，货物所交易也。乃治产积居。与时逐而不责于人。故善治生者，能择人而任时。十九年之中三致千金，再分散与贫交疏昆弟。此所谓富好行其德者也。后年衰老而听子孙，子孙修业而息之，遂至巨万。故言富者皆称陶朱公。–《史记·货殖列传》</p>
+</blockquote>
+<h2 id="越国历程"><a href="#越国历程" class="headerlink" title="越国历程"></a>越国历程</h2><p>勾践灭吴之后，曾邀请范蠡与他同分越国，但范蠡深知此人不怀好心。所以婉拒了他，并且向他请罪，即当时范蠡为保勾践性命曾贿赂夫差身边太监，从而使勾践及其夫人，范蠡一起入吴国当差服役。</p>
+<p>勾践知道要留他不易，知道了他无意与他争夺越国，放心放他走，并且将会嵇山作为他的封地。</p>
+<p>范蠡携带秘宝离开越国去了齐国。这是第一次散尽家财。</p>
+<h2 id="齐国历程"><a href="#齐国历程" class="headerlink" title="齐国历程"></a>齐国历程</h2><p>在范蠡到了齐国后，化名为：鸱夷子皮。开始做起了生意。确实和诸位所想一样，范蠡简直就是天生的生意人。一下子做到了首富，被齐人知道了，所以齐国拜范蠡为相。</p>
+<blockquote>
+<p>范蠡喟然叹曰：“居家则致千金，居官则至卿相，此布衣之极也。久受尊名，不祥。”–《史记·越王勾践世家》</p>
+</blockquote>
+<p>这大概无敌就是一种寂寞吧，其实翻译过来就是：“我只是个小老百姓，赚钱不小心赚了这么多钱，当官当到宰相，不小心就成了百姓能达到的位置极致，感觉不太好啊”</p>
+<p>这说明古人也知道装逼要被打死。</p>
+<p>然后他就把家财散尽，送给他的友人和邻居(这大概是古今第一好邻居)</p>
+<p>后来携带秘宝跑到陶地，这是第二次散尽家财。</p>
+<h2 id="曹国-陶丘历程"><a href="#曹国-陶丘历程" class="headerlink" title="曹国-陶丘历程"></a>曹国-陶丘历程</h2><p>范蠡为什么会选择在陶安家呢，史书的记载是陶是当时天下的中心，道路交汇，利用此地的优势做生意比较方便。</p>
+<blockquote>
+<p>止于陶，以为此天下之中，交易有无之路通，为生可以致富矣 –《史记·越王勾践世家》</p>
+</blockquote>
+<p>在陶地，范蠡的故事比较多。这一次他化名为陶朱公。而且这一次，他利用陶地的地利，了解天时，利用物价差成为了天下首富。有史书记载：</p>
+<blockquote>
+<p>故言富者，皆称陶朱公–《史记·货殖列传》</p>
+<p>居无何，则致赀累巨万。天下称陶朱公。–《史记·越王勾践世家》</p>
+</blockquote>
+<p>而且范蠡还教别人赚钱，比如猗顿，而且还把他教成巨贾，富可敌国：</p>
+<blockquote>
+<p>陶朱、 猗顿之富–《过秦论》</p>
+<p>猗顿用盬盐起。而邯郸郭纵以铁冶成业，与王者埒富。–《史记·货殖列传》</p>
+</blockquote>
+<p>范蠡与他的儿子的故事才是一直被后世说道的，史书有载：</p>
+<blockquote>
+<p>朱公居陶，生少子。少子及壮，而朱公中男杀人，囚於楚。–《史记·越王勾践世家》</p>
+</blockquote>
+<p>范蠡在陶地有了小儿子，直到他的小儿子成人时，他的二儿子因为在楚国杀人犯事，所以被囚禁在楚国。但是范蠡做生意多年，各国当然有结交的好朋友。所以他让小儿子带上千金还有他亲自写的一封信去楚国找好友庄生，希望他能救他儿子一命。这件事被大儿子听到后，大儿子哭着要自杀，他认为是父亲觉得他不爱他的弟弟，自认为是不孝之子。加上老婆的求情，范蠡只能无奈让大儿子带着钱去楚国了。</p>
+<p>庄生是何人？有这种描述：</p>
+<blockquote>
+<p>庄生虽居穷阎，然以廉直闻於国，自楚王以下皆师尊之。及朱公进金，非有意受也，欲以成事後复归之以为信耳。故金至，谓其妇曰：“此朱公之金。有如病不宿诫，後复归，勿动。”而朱公长男不知其意，以为殊无短长也。–《史记·越王勾践世家》</p>
+</blockquote>
+<p>庄生以品德高尚闻名楚国，当然不会动这些钱。而且还要把范蠡的二儿子救出来。文中有提到庄生是楚王以下的人皆以他为老师的人，自然楚王要给他一个面子。但是他不会让楚王直接将他放出。而是告诉楚王要施以仁政，大赦天下。</p>
+<blockquote>
+<p>庄生间时入见楚王，言“某星宿某，此则害於楚”。楚王素信庄生，曰：“今为柰何？”庄生曰：“独以德为可以除之。”楚王曰：“生休矣，寡人将行之。”–《史记·越王勾践世家》</p>
+</blockquote>
+<p>庄生用星宿去唬他，让他修德行，除去灾祸。于是楚王便打算大释天下来修德行。庄生见到好友范蠡托付自己的事情即将完成了，就回家打算将钱送还给范蠡。在这之前，他收下千金之后让范蠡的大儿子回家，什么都不要管。可是范蠡的大儿子认为这千金给了庄生也办不成事，于是在楚国藏起来等待消息。当他听到楚王已经打算大释天下以显仁德的时候，他不知道是庄生在背后推波助澜，认为白白给了庄生千金，所以他直接上门找庄生要钱。</p>
+<blockquote>
+<p>朱公长男以为赦，弟固当出也，重千金虚弃庄生，无所为也，乃复见庄生。庄生惊曰：“若不去邪？”长男曰：“固未也。初为事弟，弟今议自赦，故辞生去。”庄生知其意欲复得其金，曰：“若自入室取金。”长男即自入室取金持去，独自欢幸。–《史记·越王勾践世家》</p>
+</blockquote>
+<p>当他把钱带走之后，庄生认为被耍了。这也同样看出来庄生实际上心胸不算很大，生死攸关还在计较这些事。庄生直接去找楚王，跟他说：“我在外面听到路人说陶朱公贿赂了大王身边很多人以求救出他的孩子，所以君王大释天下并非为了楚人而大释天下，而是为了陶朱公的孩子而大释的。”</p>
+<p>楚王显然被这句话给激怒了，说到：“我虽然无德，但也不会为了陶朱公的孩子而大释天下。”于是下令先杀范蠡的二儿子。结果显而易见，范蠡的大儿子是带着二儿子的尸体回的家。</p>
+<p>回到家时，家里的人看到二儿子的尸体放声痛哭，而范蠡却大笑：“我知道长子不是故意害死二儿子，只是长子从小与我经商，知道赚钱不易，所以把钱看得太重，而小儿子从小就是在富贵家庭，哪里知道钱是哪里来的，所以把钱看得很轻。让小儿子去是因为他能够弃财，而长子不能弃财，所以我日日夜夜的在等二儿子的尸首回家。”</p>
+<p>范蠡其实早就知道了事情的结局，也证明了他的谋略以及眼光非同一般。因为二儿子是杀人犯事，所以死是应该，既然大儿子执意要去，就让大儿子上完这堂课。</p>
+<p>这就是第三次散尽千金。</p>
+<h2 id="范蠡墓"><a href="#范蠡墓" class="headerlink" title="范蠡墓"></a>范蠡墓</h2><p>范蠡最后在陶终老，所以范蠡的墓也在陶，也就是今天的山东菏泽定陶区，定陶区有一些古迹。</p>
+<p>比如：刘邦小老婆戚姬的戚姬寺；项羽的叔叔，也就是史记中记载的最开始带着他打仗的项梁的项梁墓；刘邦创建西汉时登基之处官堌堆；西汉开国将领，在当时地位与韩信齐名的彭越，封地梁国的梁王，梁王台······这些人在以后有机会我会挨个写出来。</p>
+<h1 id="末"><a href="#末" class="headerlink" title="末"></a>末</h1><p>其实很多人都想知道西施与范蠡范少伯的故事，我想在以后单独写古代民间传说的四大美女。这篇文章只是一次试水，我不清楚写得好不好，我想留给大众评定。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;前言：我想试试写一部中国古代富豪录，扒一扒古时富豪的史实，关于他们为人处世，当时地位，以及很多趣闻。不定期更新，请等候。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;范蠡是春秋时期时越国大夫，即是我们众所周知的越王勾践的臣子。与他一起辅佐勾践的有：大夫文种。&lt;/p&gt;
+&lt;p&gt;因为
+    
+    </summary>
+    
+    
+      <category term="中国古代史" scheme="http://0chencc.github.io/tags/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%8F%B2/"/>
+    
+      <category term="中国古代富豪录" scheme="http://0chencc.github.io/tags/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%AF%8C%E8%B1%AA%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>乌镇两天游</title>
+    <link href="http://0chencc.github.io/2017/06/07/WuZhen/"/>
+    <id>http://0chencc.github.io/2017/06/07/WuZhen/</id>
+    <published>2017-06-06T17:21:06.000Z</published>
+    <updated>2017-08-06T09:06:22.470Z</updated>
+    
+    <content type="html"><![CDATA[<p>我从杭州打了个滴滴到乌镇，花费大概是230.</p>
+<h1 id="乌镇西栅"><a href="#乌镇西栅" class="headerlink" title="乌镇西栅"></a>乌镇西栅</h1><p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170607/224615127.jpg" alt="mark"></p>
+<p>听从客栈老板建议，直接到西栅。所以我在客栈里边把行李寄放好了就步行到西栅。</p>
+<p>我住的地方到西栅大概100米（环境不错，下面上图。）</p>
+<p> 如果有学生证的话建议带学生证，如果没有可以带身份证。18岁以下的可以半票。西栅的工作人员比较好说话，如果你出示未成年的身份证可以打半票。如果你是用身份证买的半票，千万不要随手扔了西栅入园门票，有大用！</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170608/004747058.jpg" alt="mark"></p>
+<p>进门之后有船可以坐。价格我记得是60块钱，到终点。</p>
+<p>我是一个有志青年，所以我选择步行，一进门会经过这条林道，林道旁边是乌镇大剧院，一开始我以为是互联网大会的会址(捂脸)</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170608/005126072.jpg" alt="mark"></p>
+<p>林道直走，过桥后有木心博物馆的售票处，如果你出示身份证，对方是不会给你打半票的。如果你把西栅入园的门票给他看，就可以买半价票。</p>
+<p>木心老人是中国近代的文学巨匠，早期曾在纽约待过。是先生这一类的人物。藏书很多。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170711/010127941.jpg" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170711/010925685.jpg" alt="mark"></p>
+<p>这是木心纪念馆内的部分场景，记得这里面有一个地方。可以坐在那里看书，环境和气氛都蛮好。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170711/011127092.jpg" alt="mark"></p>
+<p>这是染坊，在木心纪念馆的反方向走，就是西栅，会先遇到这个染坊。</p>
+<p>鸡蛋仔冰淇淋，炒鸡好吃。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170711/011732433.jpg" alt="mark"></p>
+<p>还有乌冻之类的小吃。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170711/012022933.jpg" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170711/012530410.jpg" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170711/012853857.jpg" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170711/013049519.jpg" alt="mark"></p>
+<p>这是太阳还没落山的乌镇西栅，我本以为一下就到了傍晚。没想到我把西栅转了三圈，还没暗。哭死。</p>
+<p>想到没地方可以打发时间了，干脆吃个饭。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/125430989.jpg" alt="mark"></p>
+<p>一份炒饭，一份番茄蛋汤，一碗白米饭。打发了晚餐。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/125726912.jpg" alt="mark"></p>
+<p>我是一边打王者荣耀一边吃饭，时间流逝得很快，没记错的话，这应该是18点了。我感觉从这个点开始的乌镇很美。</p>
+<p>有人在划船。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/125916794.jpg" alt="mark"></p>
+<p>真的很美喔！</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/133144266.jpg" alt="mark"></p>
+<p>后来，我去坐了船。可能我去的时候不是假期，所以人少，要不就是几个朋友成群的。</p>
+<p>这里的坐船有点6，他们是没有排先后的，然后乱拉人上船，我明明是先进去的，却没有船夫带我，真有意思。人不满不开船，但可以包船。</p>
+<p>当时我很生气，问他我能不能一个人包船，他很惊异问我为什么，我说：就是想包船，给不给。</p>
+<p>然后旁边就有船夫招呼我上船了。包船不成。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/135042277.jpg" alt="mark"></p>
+<p>这是在船上拍到的夜景，蛮不错的。</p>
+<p>因为刘若英在拍MV，所以有一个点没有开放，尴尬。</p>
+<p>所以直接在第二个点下船，也就是终点。</p>
+<p>下船点有三个，可以往返，但是往返要买票。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/144836010.jpg" alt="mark"></p>
+<p>终点就是酒吧一条街，里面有人唱民谣，摇滚等等。很嗨，在西栅住的旅客，可以泡在里面，泡一晚上都可以。</p>
+<p>我手机快没电了，所以直接撤了。</p>
+<p>见到乌镇标志性的建筑物。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/145706527.jpg" alt="mark"></p>
+<p><em>&lt;一个写着乌镇的大盘子&gt;</em></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/145106977.jpg" alt="mark"></p>
+<p><em>&lt;乌镇邮局，她曾经来过这个地方，于是我要走遍她留下过的足迹。&gt;</em></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/150959592.jpg" alt="mark"></p>
+<p>晚街，有一种莫名的感觉，很舒服。很喜欢。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/151100043.jpg" alt="mark"></p>
+<p>成功在手机没电前回到房子里，这是客栈。感觉还行，实际大概有140左右平方。价格也不贵。</p>
+<p>一觉过后…</p>
+<h1 id="乌镇东栅，乌村"><a href="#乌镇东栅，乌村" class="headerlink" title="乌镇东栅，乌村"></a>乌镇东栅，乌村</h1><p>这俩个点我是一天转完的，有点仓促，但是还算是全转完了。</p>
+<p>我向客栈老板打听了路，然后出发。</p>
+<p>途中因为岔口太多，在一家餐厅吃了顿午饭，顺便问路。</p>
+<p>当地的粽子和面，味道可口，赞。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/154143237.jpg" alt="mark"></p>
+<p>问清楚路后，开始出发到东栅。</p>
+<p>其实老江湖有有提过，东栅和西栅差距不大，所以我也是本着随处转的意向来的。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/154329148.jpg" alt="mark"></p>
+<p>值得一提的是，东栅的纪念品售价相对亲民，在杭州乌镇旅游时，想买纪念品建议在东栅买。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/154425295.jpg" alt="mark"></p>
+<p>据说这是财神湾。</p>
+<p>差不多的老街，但是这条街的住房便宜多了。</p>
+<p>如果只是想体验下住乌镇老街而已，可以考虑住这个地，差不多的房子，差了将近十倍的价格。</p>
+<p>这里靠水的房子大概是200+/晚，西栅靠水是2000+/晚</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/154529306.jpg" alt="mark"></p>
+<p>不过这个地方也确实有些可以去的地方，这条街里：</p>
+<p>有旗袍馆吧 我记得</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/180425284.jpg" alt="mark"></p>
+<p>有染坊馆：</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/180506419.jpg" alt="mark"></p>
+<p>有床馆：很久很久之前的床讲到我大清的床：</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/180549123.jpg" alt="mark"></p>
+<p>旗袍馆：</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/180805807.jpg" alt="mark"></p>
+<p>当然是民国时候的拉！</p>
+<p>还有雕刻馆：</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/180830134.jpg" alt="mark"></p>
+<p>有木雕石雕</p>
+<p>还有茅盾纪念馆，我没拍照。茅盾先生其实蛮帅的。</p>
+<p>这条街走完，看了下时间，觉得应该可以跑了。</p>
+<p>不太清楚互联网大会会址怎么走，有的人说在西栅里面，要买西栅票才能进去，有的人说不用买西栅票。</p>
+<p>百度之后，发现是在乌村，而乌村又有众说纷纭，又查了下：乌村是在西栅旁边，其实不算旁边，大概1-2公里是要的。</p>
+<p>买票的点，有这个：</p>
+<p>（后来我才知道是刘若英）</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/181140365.jpg" alt="mark"></p>
+<p>互联网大会是下午五点就关闭，小姐姐提醒我的。</p>
+<p>乌村是一个刚开发的景点，别说人，鸟都没有，就剩几只兔子。工作人员比游客还多，我进村时，压根没人。</p>
+<p>一个人承包了一个景点(当然，还有刘若英的拍摄团队)</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/181514170.jpg" alt="mark"></p>
+<p>然后我就遇到了有拍摄工作的刘若英拍摄团队</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/181647872.jpg" alt="mark"></p>
+<p>我不认识刘若英，也不知道长什么样。所以拍了个照片，没在意。</p>
+<p>继续玩我的，这样的建筑非常和我意。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/181816351.jpg" alt="mark"></p>
+<p>往下走一点，我发现门口摆了这个：</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/181937644.jpg" alt="mark"></p>
+<p>贼几把吊的摄影机，依然不知道在干啥的。继续玩：</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/182046866.jpg" alt="mark"></p>
+<p>在小姐姐的指导下，我终于知道互联网大会会址在哪了，经过了京杭大运河：</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/183405936.jpg" alt="mark"></p>
+<p>一直往前，即是会址</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/183555992.jpg" alt="mark"></p>
+<p>然后会有一个小姐姐来带你飞</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/183751753.jpg" alt="mark"></p>
+<p>先给我们讲了关于乌村的建造，历史等等信息</p>
+<p>小姐姐就开始了带飞之路</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/183913210.jpg" alt="mark"></p>
+<p>当时大佬们参会的会场，这个点我问了，16W/8小时</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/184018091.jpg" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/184522281.jpg" alt="mark"></p>
+<p>小姐姐！还有俩个不相干的情侣游客，一直给我发狗粮。我们西天取经的队伍就差小白龙了。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/184537281.jpg" alt="mark"></p>
+<p>小姐姐的背影，hhh</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/184622363.jpg" alt="mark"></p>
+<p>接下来是外围：</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/184706979.jpg" alt="mark"></p>
+<p>现代化气息非常浓，大概是这个充满古风的小镇一个令人惊叹的亮点吧。</p>
+<p>算了下时间，发现可以走了。于是我就开始沿着原路返回。</p>
+<p>其实我还去了一些别的地方，只是因为图多，懒得传，所以没点到。只是说个大概，也许能够给大家一个惊喜，给景点存些许神秘。</p>
+<p>于是刘若英的拍摄团队就在那个地方挡路了，有个小姐姐告诉我，这是刘若英的拍摄团队。哦呵呵。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/185053776.jpg" alt="mark"></p>
+<p>没办法，怼不过，干脆换路，顺便去咖啡厅喝会咖啡，加上手机没电，边充电边喝咖啡。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/185142059.jpg" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/185445887.jpg" alt="mark"></p>
+<p>你们没有看错，我饶了一圈，只是到了刘若英拍摄团队前面一段路而已，你们在上图仔细看的话，可以看到这个栅栏。</p>
+<p>咖啡喝完，他们居然跑到我要走的那条路又拍了，rnmmp。</p>
+<p>干脆和他们拍摄团队混在一起吹水。谈谈天。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/185540882.jpg" alt="mark"></p>
+<p>顺便偷录了一小段他们拍摄的花蕊，他们没发现。有个老伯也偷拍了，这个大叔让老伯自己看看就行，别发出去，有版权。</p>
+<p>一波三折，终于顺利走出乌村。</p>
+<p>打滴滴回客栈提行李，再打滴滴去杭州靖江，也就是萧山机场所在地。这样我隔天可以晚点起床。</p>
+<p>有点6的是，带我回客栈和带我去靖江的师傅，居然是同个人。旅游淡季，他接了俩个单子，对，都是我。</p>
+<p>这是我住的地方：</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/185700165.jpg" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/185949929.jpg" alt="mark"></p>
+<p>我订的是一个四星级的豪华大床房带阳台。不贵200+/一晚</p>
+<p>感觉不能浪费最后一顿晚餐，直接跑去西餐厅吃西餐。(为什么是四人桌，嘲笑老子一个人吗)</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/190059478.jpg" alt="mark"></p>
+<p>吃给你们看：</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170713/190240617.jpg" alt="mark"></p>
+<p>杭州乌镇6天游，这样就结束了。我一共写了5天的游记，第六天是在机场过的，那天直接回家了。</p>
+<p>这篇稿子是写在2017.7.13也就是说：我拖了一个月的稿(捂脸)</p>
+<p>我每年都会选择一个地方玩，下半年和明年我打算找个时间去苏州玩，如果有志同道合的朋友，我们也许能够一起出去。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我从杭州打了个滴滴到乌镇，花费大概是230.&lt;/p&gt;
+&lt;h1 id=&quot;乌镇西栅&quot;&gt;&lt;a href=&quot;#乌镇西栅&quot; class=&quot;headerlink&quot; title=&quot;乌镇西栅&quot;&gt;&lt;/a&gt;乌镇西栅&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://oqz4ehyp7.bkt.c
+    
+    </summary>
+    
+    
+      <category term="旅游" scheme="http://0chencc.github.io/tags/%E6%97%85%E6%B8%B8/"/>
+    
+      <category term="旅行杂记" scheme="http://0chencc.github.io/tags/%E6%97%85%E8%A1%8C%E6%9D%82%E8%AE%B0/"/>
+    
+      <category term="乌镇旅行" scheme="http://0chencc.github.io/tags/%E4%B9%8C%E9%95%87%E6%97%85%E8%A1%8C/"/>
+    
+      <category term="嘉兴旅行" scheme="http://0chencc.github.io/tags/%E5%98%89%E5%85%B4%E6%97%85%E8%A1%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>杭州第三天</title>
+    <link href="http://0chencc.github.io/2017/06/06/HangZhouThirdDay/"/>
+    <id>http://0chencc.github.io/2017/06/06/HangZhouThirdDay/</id>
+    <published>2017-06-05T16:14:22.000Z</published>
+    <updated>2017-08-06T09:05:43.337Z</updated>
+    
+    <content type="html"><![CDATA[<p>杭州的第三天，今天有雨。熬夜太久，于是睡到九点再起床。</p>
+<h1 id="宋城——现代科技与古代文化的碰撞"><a href="#宋城——现代科技与古代文化的碰撞" class="headerlink" title="宋城——现代科技与古代文化的碰撞"></a>宋城——现代科技与古代文化的碰撞</h1><p>九点多下楼吃完早饭，重新回到楼上熬到十二点多。然后去了宋城。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/010737023.jpg" alt="mark"></p>
+<p><em>宋城外围</em></p>
+<p>进城发现有古装，激动！我素来便是古装粉。看上一件黑色的，古代以黑为贵。但是小了一码(太胖了)。然后小姐姐又拿出了一件红色的。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/010946981.jpg" alt="mark"></p>
+<p>穿在身上大概就是这么一回事。</p>
+<blockquote>
+<p>我如果生在古代然后还有一位佳人伴随，我一定是最帅的新郎官。</p>
+</blockquote>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/011458527.jpg" alt="mark"></p>
+<p>李易安！中国第一女词皇！</p>
+<blockquote>
+<p>蹴罢秋千，起来慵整牵牵手。露浓花瘦，薄汗轻衣透。</p>
+<p>见有人来，袜刬金钗溜。和羞走，倚门回首，却把青梅嗅。</p>
+<p>《点绛唇》</p>
+</blockquote>
+<p>上点宋城的照片</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/012322136.jpg" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/012412957.jpg" alt="mark"></p>
+<p>我来的时候已经一点多了，而我买的宋城千古情门票是下午两点的贵宾票。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/012431676.jpg" alt="mark"></p>
+<p>我旁边就是豪华席，差别太大了。下次我也要买豪华席。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/012536314.jpg" alt="mark"></p>
+<p>这是一段开场</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/012636287.jpg" alt="mark"></p>
+<p>第一场就是描述大宋王朝的繁华。这场出场的小姐姐都是没包住的，全场福利。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/012741739.jpg" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/012756375.jpg" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/012852194.jpg" alt="mark"></p>
+<p>差不多都是这样的。男性同胞可以全程睡觉，但是这一场不能错过。嘿嘿。</p>
+<p>接下来的第二场是金戈铁马</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/012911852.jpg" alt="mark"></p>
+<p>很热血的场面，我几乎是肾上腺激素暴涨看完这一场的，讲的岳飞的故事。</p>
+<p>第三场，许仙和白素贞。千古不变的套路。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/013100513.jpg" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/013141301.jpg" alt="mark"></p>
+<p>到后半场的灯光做得很强。堪比我之前在珠海长隆的晚上表演。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/013237319.jpg" alt="mark"></p>
+<p>第四场，讲真。我忘了在讲什么了。然后就散场了，第四场就是凑数的，很短。</p>
+<p>出了会场，我就开始乱逛。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/013342181.jpg" alt="mark"></p>
+<p>这是酒坊，说是有卖三生三世十桃花酿…秉着好奇心，买了一杯。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/013459347.jpg" alt="mark"></p>
+<p>味道有点奇怪，反正她说是桃花酿，就是桃花酿了。很久没有尝到酒味，就当助助兴。</p>
+<p>确实有个桃味。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/013648488.jpg" alt="mark"></p>
+<p>直走到了怪街。怎么说呢，这地方其实就是个拍照的。</p>
+<p>比如：</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/013750743.jpg" alt="mark"></p>
+<p>就是这个屋子设计就是斜的。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/013850694.jpg" alt="mark"></p>
+<p>还有倒屋，就是…你们懂的…</p>
+<p>还有很多，有机会来体验一下。不多发。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/013951118.jpg" alt="mark"></p>
+<p>这里是一间很多镜子的房间，我忘了叫什么了。好像是迷宫，反正就是在里面绕一圈出来。</p>
+<p>所幸这里很多镜子，让我看到我现在这身行头有多帅。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/014058559.jpg" alt="mark"></p>
+<p>鬼屋，我没这个胆。在门口转了转就跑了，规则写得特别恐怖，我自己看了受不了，不发。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/014200059.jpg" alt="mark"></p>
+<p>乱走，走到了清明上河图。这个清明上河图和外边的妖艳贱货完全不同，这个含有一些科技气息，这里面的船，人，牛马，车。都是会动的。而且有声音。非常有意思。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/014347431.jpg" alt="mark"></p>
+<p>还是乱走，走到了祝府，也就是祝英台她家。这也是一个非常有科技气息的房子。这是偷窥墙，小孔里面会随机出现视频，受到感应就可以看到。圆了身为一个男人的偷窥梦哈哈，里面的视频也算是福利。</p>
+<p>这里面还有：一口井，三座斗蛐蛐的台子，镜子。还有什么我忘了。不过这些都是科技类的，老少皆宜。</p>
+<p>在小吃街等地转了一圈打算回家时。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/014722195.jpg" alt="mark"></p>
+<p>我看到了包青天压着陈世美审判。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/014812318.jpg" alt="mark"></p>
+<p>小时候常听大人讲的故事终于有一次亲眼看到被人表演出来。</p>
+<p>看完这场表演。我便打道回府了。</p>
+<h1 id="今日收获"><a href="#今日收获" class="headerlink" title="今日收获"></a>今日收获</h1><blockquote>
+<p>我只是选取了一部分出来，毕竟图片上传什么的太浪费时间，我写这篇博文到现在已经快俩点了（凌晨）</p>
+<p>宋城在古代文化中融入了现代科技，你可以看到街头卖艺的艺人，可以看到千金大小姐抛绣球招婿，也有宋城千古情这种非常极具特色的演出，这里很大程度上满足了我对古代生活的幻想。但也有一些我不太满意的地方，这些地方大概只有我和一些比较偏执的人才会计较。</p>
+<p>如果想体验古代生活的话，这里是绝佳之地。这里的店铺的店家，全是穿着古装，很多游客也是身着古装的。你可以拿钱币去换铜钱，铜钱在宋城消费是九折。可以用微信，支付宝，现金。也可以去品茶，这里面设计了客栈元素，非常棒。</p>
+<p>宋城千古情和丽江千古情很相似，都是讲一方土地从古至今的历史，传说等等</p>
+</blockquote>
+<h1 id="回到酒店后的尴尬"><a href="#回到酒店后的尴尬" class="headerlink" title="回到酒店后的尴尬"></a>回到酒店后的尴尬</h1><p>因为我明天就要到乌镇了，所以我找老板借用洗衣机洗一下衣服，前俩天都忘了洗。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/015622735.jpg" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170606/015604729.jpg" alt="mark"></p>
+<p>老板直接给了我一台迷你洗衣机，EXM？？？出水口，注水口，电源，三处根本连不到一起…</p>
+<p>几番尝试无果，放弃。</p>
+<p>手洗。</p>
+<p>睡觉。</p>
+<p>END，期待乌镇的旅行。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;杭州的第三天，今天有雨。熬夜太久，于是睡到九点再起床。&lt;/p&gt;
+&lt;h1 id=&quot;宋城——现代科技与古代文化的碰撞&quot;&gt;&lt;a href=&quot;#宋城——现代科技与古代文化的碰撞&quot; class=&quot;headerlink&quot; title=&quot;宋城——现代科技与古代文化的碰撞&quot;&gt;&lt;/a&gt;宋城—
+    
+    </summary>
+    
+    
+      <category term="旅游" scheme="http://0chencc.github.io/tags/%E6%97%85%E6%B8%B8/"/>
+    
+      <category term="旅行杂记" scheme="http://0chencc.github.io/tags/%E6%97%85%E8%A1%8C%E6%9D%82%E8%AE%B0/"/>
+    
+      <category term="杭州旅行" scheme="http://0chencc.github.io/tags/%E6%9D%AD%E5%B7%9E%E6%97%85%E8%A1%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>杭州第二天</title>
+    <link href="http://0chencc.github.io/2017/06/04/HangZhouSecondDay/"/>
+    <id>http://0chencc.github.io/2017/06/04/HangZhouSecondDay/</id>
+    <published>2017-06-04T15:55:17.000Z</published>
+    <updated>2017-08-06T09:05:27.845Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天是在杭州第二天。</p>
+<p>早上8点钟起床，翻来覆去一阵子。最终打败了睡意，到了一楼吃早餐。我住的民宿早上会提供一些简单的吃食，对于我来说已经足够了<br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170605/023346222.jpg" alt="mark"></p>
+<p><em>这是我的早餐，一点腐乳，一点咸菜，俩个窝窝，一碗粥，一颗蛋。</em><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170605/100944217.jpg" alt="mark"></p>
+<p>之前提到过我住的地方在灵隐寺旁边，所以我早上便是从这里开始…出发前往灵隐寺<br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170605/101100365.jpg" alt="mark"></p>
+<p>骑着OFO，再步行了一小段时间。来到了灵隐寺。</p>
+<p>寺里提供三柱清香，拜东西南北四方，为家里祈福之后。我就开始瞎逛。</p>
+<p>殿内不许拍照，只能发点外边的照片。<br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170605/101201579.jpg" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170605/101343222.jpg" alt="mark"></p>
+<p>环境非常好…大概是佛运加持，我卡了一个月的王者荣耀黄金一终于上了白金。</p>
+<p>出了寺院，我便顺路去了对面的飞来峰，</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170605/101502193.jpg" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170605/101526383.jpg" alt="mark"></p>
+<p>一不小心就登顶了…</p>
+<p>下一步我是去传说中的三生石，一路上我开直播。观众不少，开始吹水。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170605/102059653.jpg" alt="mark"></p>
+<p>解决了顿午饭，25块钱一碗的笋肉面，味道极美。景区也不奢望面的价格便宜。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170605/102120503.jpg" alt="mark"></p>
+<p>从吃面的地方步行约100米，顺利的来到了三生石面前。希望接下来的日子里能够找到一位会拍照又好看的女朋友吧。</p>
+<p>这时候的我已经精疲力尽了。回到酒店太累，满身汗。直接倒下，休息到下午四点多，打了车到龙井。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170605/102321763.jpg" alt="mark"></p>
+<p>借了老乡的井在这个传说乾隆用过的井打了水，洗洗手，拍拍脸。沾沾龙气。</p>
+<p>龙井村有个规矩，用了哪家的桶，就得到哪家喝茶。</p>
+<p>纯粹喝茶也行，买点茶回家也行。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170605/102425322.jpg" alt="mark"></p>
+<p>不论喝多少，管够，还给水果。</p>
+<p>出于想带特产回家里的心情，我买了三两左右，因为身上也没太多钱，而且家里茶叶太多，喝不完。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170605/102557489.jpg" alt="mark"></p>
+<p>长这么大，第一次独自一个人坐大巴。前往西湖，这时候已经是傍晚了。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170605/102622217.jpg" alt="mark"></p>
+<p>到了秋瑾烈士的墓。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170605/102648259.jpg" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170605/102709166.jpg" alt="mark"></p>
+<p>还有苏小小的墓，旁边有位老大爷，通读史书。</p>
+<p>因为路人的一句“苏小小？千古名妓啊。”</p>
+<p>开始反驳：“苏小小从小出生在富贵人家，怎么需要当妓女呢？只是受当时情况所迫，卖技，技人，又称艺人。”</p>
+<p>“如果苏小小是妓女，我党也不会把她的墓一直放在这里不移除了。”</p>
+<p>…</p>
+<p>我觉得蛮有意思，在旁边听着他从头讲到完，也算是增长了一番见识。但是老人家说苏小小才艺冠古今，古今才女第一人我不服。我觉得李清照才是古今才女第一人，毕竟李易安可是古今女词皇。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170605/102734378.jpg" alt="mark"></p>
+<p>傍晚到了苏堤散步，蛮好。晚风呢喃，独我一人。伴随清风，缓解压抑。</p>
+<p>近段时间太多太多事情对我冲击太大，此次来杭州就是为了解压而来。晚风吹过，伴着些许凉意，也让我轻松许多。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170605/102830419.jpg" alt="mark"></p>
+<p>听闻步行街有音乐喷泉，特意乘车到此参观。到了之后发现并没有想象中的美，不上图。有兴趣可以自行参观。</p>
+<blockquote>
+<p>(音乐喷泉的时间段为：晚7点一场，晚8点一场)</p>
+</blockquote>
+<p>我参观的是8点一场的。</p>
+<p>对了，我还没吃饭。</p>
+<p>步行到音乐喷泉过程中，我发现了锅小二，于是返回到锅小二吃了顿火锅，消费了170左右。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170605/102905443.jpg" alt="mark"></p>
+<p>自助火锅。可惜只有我一个人。</p>
+<p>吃完饭后，突然想到西湖断桥看看夜景。此时已经晚九点半了。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170605/102930286.jpg" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170605/103006118.jpg" alt="mark"></p>
+<p>极美！此时最大的遗憾就是我不会拍照并且没有找到一位会拍照的女朋友！</p>
+<p>消食顺便散步。风很大，很凉，很爽。很后悔没有带件外套放在书包里。</p>
+<p>十点多，乘车回到民宿。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170605/103250664.jpg" alt="mark"></p>
+<p>然后就开始写完这篇文章。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天是在杭州第二天。&lt;/p&gt;
+&lt;p&gt;早上8点钟起床，翻来覆去一阵子。最终打败了睡意，到了一楼吃早餐。我住的民宿早上会提供一些简单的吃食，对于我来说已经足够了&lt;br&gt;&lt;img src=&quot;http://oqz4ehyp7.bkt.clouddn.com/blog/2017060
+    
+    </summary>
+    
+    
+      <category term="旅游" scheme="http://0chencc.github.io/tags/%E6%97%85%E6%B8%B8/"/>
+    
+      <category term="旅行杂记" scheme="http://0chencc.github.io/tags/%E6%97%85%E8%A1%8C%E6%9D%82%E8%AE%B0/"/>
+    
+      <category term="杭州旅行" scheme="http://0chencc.github.io/tags/%E6%9D%AD%E5%B7%9E%E6%97%85%E8%A1%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>杭州第一天</title>
+    <link href="http://0chencc.github.io/2017/06/03/HangZhouFirstDay/"/>
+    <id>http://0chencc.github.io/2017/06/03/HangZhouFirstDay/</id>
+    <published>2017-06-03T12:51:43.000Z</published>
+    <updated>2017-08-06T09:05:13.293Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天在老家乘飞机到了杭州</p>
+<p>经过航班延误之后，抵达了萧山机场</p>
+<p>还算没延误太久，时间也在自己的预料之内</p>
+<p>于是马上叫了辆车带我到了我住的地方</p>
+<h2 id="酒店"><a href="#酒店" class="headerlink" title="酒店"></a>酒店</h2><p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170603/233643650.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170603/233717273.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170603/233853903.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170603/233924709.jpg" alt="mark"><br><em>&lt;这是我住的地方–民宿–位于灵隐寺旁&gt;</em></p>
+<h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>我先研究了Hexo的主题配置，再将博客顺利配置完成之后。</p>
+<p>带上装备便出门了</p>
+<p>我住在灵隐寺旁边，我的本意是用OFO出门，但是扫了好几辆全是故障无法使用的车子</p>
+<p>滴滴也叫不到一辆车，所幸来了辆出租车</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170603/234526448.jpg" alt="mark"></p>
+<p><em>&lt;我住的地方出门后遇到的风景其实非常美&gt;</em></p>
+<h2 id="西湖的徘徊"><a href="#西湖的徘徊" class="headerlink" title="西湖的徘徊"></a>西湖的徘徊</h2><p>出租车因为遇上节假日人流高峰期，我选择在西湖边停，距离我的目的地断桥还有一小段距离</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170603/234829612.jpg" alt="mark"></p>
+<p><em>&lt;终于骑上了OFO&gt;</em><br>开启了瞎转悠模式,放上几张图片给你们看看我到了什么地方</p>
+<p>(路过了武松墓和苏小小墓，苏小小墓没拍照，人太多。武松墓拍了，照片太大无法上传)</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170603/234959210.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170603/235144628.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170603/235408757.jpg" alt="mark"></p>
+<p><em>&lt;七牛云太苦逼了，不能传很多拍得算好看的照片&gt;</em></p>
+<h2 id="吃天地"><a href="#吃天地" class="headerlink" title="吃天地"></a>吃天地</h2><p>经过了楼外楼，不传照片，因为没有拍到好的。</p>
+<p>此时已经傍晚，我已经经过断桥并且小休息了一会。</p>
+<p>我素来便是吃货，靠一招吃通天走遍天下。</p>
+<p>所以我带着我的坐骑向城区的小吃街(河坊街)</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/001421129.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/001545596.jpg" alt="mark"><br><em>&lt;上图为在骑行过程中随手拍摄，杭州绿化真的非常赞&gt;</em></p>
+<p>漫长一小时过去，我终于来到了河坊街<br><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/001341687.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/001748506.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/001822683.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/001858534.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/001957477.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/002018585.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/002048404.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/002119285.jpg" alt="mark"><br><em>&lt;这里包含了几乎国内所有美食和国外部分美食，琳琅满目，我因为生病所以没有吃这些辛辣的。</em></p>
+<p><em>只是买了一杯奶茶和一种不知道什么鬼的饭吃了吃。&gt;</em><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/002143819.jpg" alt="mark"><br>因为不能吃小吃街的东西，所以吃正餐，西湖醋鱼，西湖虾仁，东坡肉。</p>
+<p>非常不错的一次体验，这些吃的非常可口。</p>
+<h2 id="休息"><a href="#休息" class="headerlink" title="休息"></a>休息</h2><p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/002549465.jpg" alt="mark"></p>
+<p>来之前找我老妈要了点在云南买的茉莉花茶，再感受下山里的宁静，休息之后明天继续游玩。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天在老家乘飞机到了杭州&lt;/p&gt;
+&lt;p&gt;经过航班延误之后，抵达了萧山机场&lt;/p&gt;
+&lt;p&gt;还算没延误太久，时间也在自己的预料之内&lt;/p&gt;
+&lt;p&gt;于是马上叫了辆车带我到了我住的地方&lt;/p&gt;
+&lt;h2 id=&quot;酒店&quot;&gt;&lt;a href=&quot;#酒店&quot; class=&quot;headerlink&quot;
+    
+    </summary>
+    
+    
+      <category term="旅游" scheme="http://0chencc.github.io/tags/%E6%97%85%E6%B8%B8/"/>
+    
+      <category term="旅行杂记" scheme="http://0chencc.github.io/tags/%E6%97%85%E8%A1%8C%E6%9D%82%E8%AE%B0/"/>
+    
+      <category term="杭州旅行" scheme="http://0chencc.github.io/tags/%E6%9D%AD%E5%B7%9E%E6%97%85%E8%A1%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World!</title>
+    <link href="http://0chencc.github.io/2017/06/02/Hello-World/"/>
+    <id>http://0chencc.github.io/2017/06/02/Hello-World/</id>
+    <published>2017-06-02T11:42:42.000Z</published>
+    <updated>2017-06-02T11:47:46.436Z</updated>
+    
+    <content type="html"><![CDATA[<p>程序员的世界里，每个程序员开始旅途的起点，便是”Hello World”<br><br>于是我用”Hello World”作为博客最开始的开始<br><br>希望这个博客能够承载我足够多的回忆以及这时或那时的想法<br><br>当我数年数十年过后再度回首再翻起这里写的点点滴滴时心里能有所触动.<br><br>也希望有不少人能为我的文字所感动，为我的思想所感慨.<br></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;程序员的世界里，每个程序员开始旅途的起点，便是”Hello World”&lt;br&gt;&lt;br&gt;于是我用”Hello World”作为博客最开始的开始&lt;br&gt;&lt;br&gt;希望这个博客能够承载我足够多的回忆以及这时或那时的想法&lt;br&gt;&lt;br&gt;当我数年数十年过后再度回首再翻起这里写的点点滴
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
