@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://0chencc.github.io/"/>
-  <updated>2017-08-28T12:06:06.990Z</updated>
+  <updated>2017-08-28T12:10:30.575Z</updated>
   <id>http://0chencc.github.io/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>七夕技术宅-当windows10与ubuntu相遇</title>
-    <link href="http://0chencc.github.io/2017/08/28/%E4%B8%83%E5%A4%95%E6%8A%80%E6%9C%AF%E5%AE%85-%E5%BD%93windows10%E4%B8%8Eubuntu%E7%9B%B8%E9%81%87/"/>
-    <id>http://0chencc.github.io/2017/08/28/七夕技术宅-当windows10与ubuntu相遇/</id>
+    <title>七夕技术宅--当windows10与ubuntu相遇</title>
+    <link href="http://0chencc.github.io/2017/08/28/%E4%B8%83%E5%A4%95%E6%8A%80%E6%9C%AF%E5%AE%85--%E5%BD%93windows10%E4%B8%8Eubuntu%E7%9B%B8%E9%81%87/"/>
+    <id>http://0chencc.github.io/2017/08/28/七夕技术宅--当windows10与ubuntu相遇/</id>
     <published>2017-08-28T05:47:35.000Z</published>
-    <updated>2017-08-28T12:06:06.990Z</updated>
+    <updated>2017-08-28T12:10:30.575Z</updated>
     
     <content type="html"><![CDATA[<p>windows10在应用商店上线了ubuntu。</p>
 <h1 id="开启win10预览体验计划并且运行ubuntu"><a href="#开启win10预览体验计划并且运行ubuntu" class="headerlink" title="开启win10预览体验计划并且运行ubuntu"></a>开启win10预览体验计划并且运行ubuntu</h1><p>这款应用旨在帮助开发者在windows环境下也能使用bash，如图</p>
