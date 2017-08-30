@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://0chencc.github.io/"/>
-  <updated>2017-08-28T12:10:30.575Z</updated>
+  <updated>2017-08-30T16:59:17.304Z</updated>
   <id>http://0chencc.github.io/</id>
   
   <author>
@@ -16,13 +16,101 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>比PentestBox屌，看我如何打造高效率渗透测试环境以及其他优化</title>
+    <link href="http://0chencc.github.io/2017/08/31/%E6%AF%94PentestBox%E5%B1%8C%E7%9C%8B%E6%88%91%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E9%AB%98%E6%95%88%E7%8E%87%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E4%BB%A5%E5%8F%8A%E5%85%B6%E4%BB%96%E4%BC%98%E5%8C%96/"/>
+    <id>http://0chencc.github.io/2017/08/31/比PentestBox屌看我如何打造高效率渗透测试环境以及其他优化/</id>
+    <published>2017-08-30T17:00:00.000Z</published>
+    <updated>2017-08-30T16:59:17.304Z</updated>
+    
+    <content type="html"><![CDATA[<p>在使用了朋友推荐的PentestBox之后，我发现这仅是一个Cmder加了一些渗透测试工具的加强版Cmder而已。</p>
+<p>深究PentestBox，我发现作者将这些渗透测试工具存放在bin目录里，然后在config的用户宏文件设置了诸多工具的命令而已。</p>
+<p>接下来我会写如何造一个pentestbox的轮子以及windows其他吊炸天的优化配置</p>
+<h1 id="着手自己打造一个命令行增强工具"><a href="#着手自己打造一个命令行增强工具" class="headerlink" title="着手自己打造一个命令行增强工具"></a>着手自己打造一个命令行增强工具</h1><p>如图，这些即是宏文件的部分命令</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170830/213507743.png" alt="mark"></p>
+<p>也就是说，我们将这些命令复制添加到cmder的宏文件，再将路径修改，指向到本地的渗透测试工具目录，也完全可以做到这些。</p>
+<p>我不太喜欢pentestbox，因为我比较喜欢cmder，所以才这样改。你们也可以在pentestbox改。效果一样。</p>
+<p>首先找到config目录下的user-aliases.cmd，这是cmder的。</p>
+<p>pentestbox的宏文件设置是aliases</p>
+<p>我将pentestbox的宏设置添加到cmder下。并且增加了我习惯的姿势，比如burpsuite太难打，我换成了burp。控制台输入burp即可打开。</p>
+<p>这篇文章是我通过typora编写的，所以我这样设置：</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">ty="D:\Program Files\Typora\Typora.exe" $*</div></pre></td></tr></table></figure>
+<p>这样的话 我输入ty 文件名 就会通过typora打开这篇文章进行编辑。</p>
+<p>\$*的意思是后边带上文件，你用\$*.md的话，比如我打开ty 1</p>
+<p>就会自动在1后面补全md，就会打开1.md文件。</p>
+<p>因为这些命令行增强工具是在旧版的cmd才能发挥真正强大的功能，部分用户会出现运行不了宏文件命令的问题。因为他们开启了新版控制台，所以需要开启旧版控制台。</p>
+<p>开启方法如下：</p>
+<p>点击最右下角的设置按钮，然后这样选。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170830/214646397.png" alt="mark"></p>
+<p>这样就可以开启旧版控制台，我之前比较喜欢powershell，但是powershell一些我不知道什么鬼的错误所以抛弃了，又换了cmd</p>
+<p>但是powershell有个很便捷的功能，就是比如我在C盘切到D盘，仅需：</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">cd d:</div></pre></td></tr></table></figure>
+<p>就这样，而cmd下，需要：</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">cd /d d:</div></pre></td></tr></table></figure>
+<p>这样就很尴尬。</p>
+<p>所以我将宏设置为：</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">cd = cd /d $*</div></pre></td></tr></table></figure>
+<p>这样的话我也能在cmd实现powershell这个便捷的功能</p>
+<p>又因为我平时一直用hexo写文章，所以编写了这个宏：</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">posts=cd /d D:\Hexo\source\_posts</div></pre></td></tr></table></figure>
+<h1 id="快捷启动器"><a href="#快捷启动器" class="headerlink" title="快捷启动器"></a>快捷启动器</h1><p>Wox是windows的一款很强的快捷启动器，运行之后如图</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170830/223640564.png" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170830/223714219.png" alt="mark"></p>
+<p>并且有很多插件，还可以到官网下载。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170830/223737023.png" alt="mark"></p>
+<p>我索引了桌面的快捷方式，于是我可以这样打开Cmder</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170830/223800875.png" alt="mark"></p>
+<p>按住Alt+空格 输入cmder</p>
+<p>并且他可以替换命令行，但是因为我不喜欢，所以禁用了。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170830/223834320.png" alt="mark"></p>
+<p>Wox部分插件有自己的宏：</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170830/223944219.png" alt="mark"></p>
+<p>官网的插件：</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170830/230709129.png" alt="mark"></p>
+<h1 id="仿Mac用空格预览文件"><a href="#仿Mac用空格预览文件" class="headerlink" title="仿Mac用空格预览文件"></a>仿Mac用空格预览文件</h1><p>Windows有个名为Seer的工具，可以空格阅览文件。</p>
+<p>例如预览文件夹：</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170831/005049534.png" alt="mark"></p>
+<p>预览markdown：</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170831/005114738.png" alt="mark"></p>
+<p>支持近乎所有可预览格式文件：</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170831/005141036.png" alt="mark"></p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170831/005229151.png" alt="mark"></p>
+<p>下载安装后设置开机自启动，就可以了，很小，开机速度影响几乎为0</p>
+<h1 id="强大的代码库"><a href="#强大的代码库" class="headerlink" title="强大的代码库"></a>强大的代码库</h1><p>Zeal是一款强大的代码库，拥有许多代码的doc。</p>
+<p>来看看官方的库：</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170831/005532726.png" alt="mark"></p>
+<p>这是我下载的：</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170831/005705540.png" alt="mark"></p>
+<p>搜索一条命令：</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170831/005725550.png" alt="mark"></p>
+<p>骚吧？</p>
+<h1 id="后话"><a href="#后话" class="headerlink" title="后话"></a>后话</h1><p>这篇文章我会持续增加内容，如果有喜欢的朋友可以尝试着收藏这篇文章。谢谢。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在使用了朋友推荐的PentestBox之后，我发现这仅是一个Cmder加了一些渗透测试工具的加强版Cmder而已。&lt;/p&gt;
+&lt;p&gt;深究PentestBox，我发现作者将这些渗透测试工具存放在bin目录里，然后在config的用户宏文件设置了诸多工具的命令而已。&lt;/p&gt;
+&lt;p
+    
+    </summary>
+    
+    
+      <category term="Windows10" scheme="http://0chencc.github.io/tags/Windows10/"/>
+    
+      <category term="PentestBox" scheme="http://0chencc.github.io/tags/PentestBox/"/>
+    
+      <category term="Cmder" scheme="http://0chencc.github.io/tags/Cmder/"/>
+    
+  </entry>
+  
+  <entry>
     <title>七夕技术宅--当windows10与ubuntu相遇</title>
     <link href="http://0chencc.github.io/2017/08/28/%E4%B8%83%E5%A4%95%E6%8A%80%E6%9C%AF%E5%AE%85--%E5%BD%93windows10%E4%B8%8Eubuntu%E7%9B%B8%E9%81%87/"/>
     <id>http://0chencc.github.io/2017/08/28/七夕技术宅--当windows10与ubuntu相遇/</id>
     <published>2017-08-28T05:47:35.000Z</published>
-    <updated>2017-08-28T12:10:30.575Z</updated>
+    <updated>2017-08-30T10:01:50.175Z</updated>
     
-    <content type="html"><![CDATA[<p>windows10在应用商店上线了ubuntu。</p>
+    <content type="html"><![CDATA[<p>Windows10在应用商店上线了ubuntu。</p>
 <h1 id="开启win10预览体验计划并且运行ubuntu"><a href="#开启win10预览体验计划并且运行ubuntu" class="headerlink" title="开启win10预览体验计划并且运行ubuntu"></a>开启win10预览体验计划并且运行ubuntu</h1><p>这款应用旨在帮助开发者在windows环境下也能使用bash，如图</p>
 <p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170828/135233616.jpg" alt="mark"></p>
 <p>需要将windows预览体验计划如我这样设置</p>
@@ -84,15 +172,15 @@
     
     <summary type="html">
     
-      &lt;p&gt;windows10在应用商店上线了ubuntu。&lt;/p&gt;
+      &lt;p&gt;Windows10在应用商店上线了ubuntu。&lt;/p&gt;
 &lt;h1 id=&quot;开启win10预览体验计划并且运行ubuntu&quot;&gt;&lt;a href=&quot;#开启win10预览体验计划并且运行ubuntu&quot; class=&quot;headerlink&quot; title=&quot;开启win10预览体验计划并
     
     </summary>
     
     
-      <category term="windows" scheme="http://0chencc.github.io/tags/windows/"/>
+      <category term="Windows10" scheme="http://0chencc.github.io/tags/Windows10/"/>
     
-      <category term="ubuntu" scheme="http://0chencc.github.io/tags/ubuntu/"/>
+      <category term="Ubuntu" scheme="http://0chencc.github.io/tags/Ubuntu/"/>
     
   </entry>
   
@@ -214,9 +302,9 @@
     </summary>
     
     
-      <category term="中国古代富豪录" scheme="http://0chencc.github.io/tags/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%AF%8C%E8%B1%AA%E5%BD%95/"/>
-    
       <category term="中国古代史" scheme="http://0chencc.github.io/tags/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%8F%B2/"/>
+    
+      <category term="中国古代富豪录" scheme="http://0chencc.github.io/tags/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%AF%8C%E8%B1%AA%E5%BD%95/"/>
     
   </entry>
   
@@ -290,9 +378,9 @@
     </summary>
     
     
-      <category term="杂记" scheme="http://0chencc.github.io/tags/%E6%9D%82%E8%AE%B0/"/>
-    
       <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+      <category term="杂记" scheme="http://0chencc.github.io/tags/%E6%9D%82%E8%AE%B0/"/>
     
   </entry>
   
@@ -381,11 +469,11 @@
     </summary>
     
     
+      <category term="Python" scheme="http://0chencc.github.io/tags/Python/"/>
+    
       <category term="CTFCrackTools" scheme="http://0chencc.github.io/tags/CTFCrackTools/"/>
     
       <category term="Java" scheme="http://0chencc.github.io/tags/Java/"/>
-    
-      <category term="Python" scheme="http://0chencc.github.io/tags/Python/"/>
     
       <category term="Jython" scheme="http://0chencc.github.io/tags/Jython/"/>
     
@@ -543,9 +631,9 @@
     </summary>
     
     
-      <category term="中国古代富豪录" scheme="http://0chencc.github.io/tags/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%AF%8C%E8%B1%AA%E5%BD%95/"/>
-    
       <category term="中国古代史" scheme="http://0chencc.github.io/tags/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%8F%B2/"/>
+    
+      <category term="中国古代富豪录" scheme="http://0chencc.github.io/tags/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%AF%8C%E8%B1%AA%E5%BD%95/"/>
     
   </entry>
   
