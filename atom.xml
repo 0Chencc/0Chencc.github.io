@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://0chencc.github.io/"/>
-  <updated>2017-08-30T16:59:17.304Z</updated>
+  <updated>2017-08-31T04:12:09.609Z</updated>
   <id>http://0chencc.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://0chencc.github.io/2017/08/31/%E6%AF%94PentestBox%E5%B1%8C%E7%9C%8B%E6%88%91%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E9%AB%98%E6%95%88%E7%8E%87%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E4%BB%A5%E5%8F%8A%E5%85%B6%E4%BB%96%E4%BC%98%E5%8C%96/"/>
     <id>http://0chencc.github.io/2017/08/31/比PentestBox屌看我如何打造高效率渗透测试环境以及其他优化/</id>
     <published>2017-08-30T17:00:00.000Z</published>
-    <updated>2017-08-30T16:59:17.304Z</updated>
+    <updated>2017-08-31T04:12:09.609Z</updated>
     
     <content type="html"><![CDATA[<p>在使用了朋友推荐的PentestBox之后，我发现这仅是一个Cmder加了一些渗透测试工具的加强版Cmder而已。</p>
 <p>深究PentestBox，我发现作者将这些渗透测试工具存放在bin目录里，然后在config的用户宏文件设置了诸多工具的命令而已。</p>
@@ -47,11 +47,17 @@
 <p>就这样，而cmd下，需要：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">cd /d d:</div></pre></td></tr></table></figure>
 <p>这样就很尴尬。</p>
+<p>CMD下可以输入盘名来切，比如：D:</p>
+<p>但是这样输是无法直接切到该盘目录的，所以我推荐使用我这个方法来切，可以直达目录，比如：</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">C盘下切到D盘的hexo</div><div class="line">cd D:/hexo</div></pre></td></tr></table></figure>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170831/121044675.png" alt="mark"></p>
 <p>所以我将宏设置为：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">cd = cd /d $*</div></pre></td></tr></table></figure>
 <p>这样的话我也能在cmd实现powershell这个便捷的功能</p>
 <p>又因为我平时一直用hexo写文章，所以编写了这个宏：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">posts=cd /d D:\Hexo\source\_posts</div></pre></td></tr></table></figure>
+<p>这样的话我就可以直接切到文章目录下</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170831/121153644.png" alt="mark"></p>
 <h1 id="快捷启动器"><a href="#快捷启动器" class="headerlink" title="快捷启动器"></a>快捷启动器</h1><p>Wox是windows的一款很强的快捷启动器，运行之后如图</p>
 <p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170830/223640564.png" alt="mark"></p>
 <p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170830/223714219.png" alt="mark"></p>
