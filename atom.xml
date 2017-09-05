@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://0chencc.github.io/"/>
-  <updated>2017-08-31T04:12:09.609Z</updated>
+  <updated>2017-09-05T04:07:24.436Z</updated>
   <id>http://0chencc.github.io/</id>
   
   <author>
@@ -14,6 +14,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你不得不强迫自己变得全能</title>
+    <link href="http://0chencc.github.io/2017/09/04/%E4%BD%A0%E4%B8%8D%E5%BE%97%E4%B8%8D%E5%BC%BA%E8%BF%AB%E8%87%AA%E5%B7%B1%E5%8F%98%E5%BE%97%E5%85%A8%E8%83%BD/"/>
+    <id>http://0chencc.github.io/2017/09/04/你不得不强迫自己变得全能/</id>
+    <published>2017-09-04T14:17:55.000Z</published>
+    <updated>2017-09-05T04:07:24.436Z</updated>
+    
+    <content type="html"><![CDATA[<p>浪了很久终于试了一遍被吊打的滋味。</p>
+<p>我们在公司的晚上。明知道第二天要比赛，还作死熬到2点睡，并且调了个4点55闹钟。睡了三个小时。</p>
+<p>赛场上全程都在飘，开始的时候秒了一道签到题，接着就全程划水。key处于崩溃边缘，感冒+休息不足，基本废了。</p>
+<p>我的工具又出现BUG，无奈之下从eclipse调试源码来进行解题。</p>
+<p>很多情况下你不得不强迫自己变得全能，我们缺少pwn，缺少逆向，缺少misc，缺少crypto，缺少专门写代码的，缺少web的。</p>
+<p>缺少写java的，缺少写php的，缺少写python的，缺少写C的，缺少渗透的。这些很多很多，我们都缺少。</p>
+<p>我不得不强迫自己变得全能，立个flag吧</p>
+<p>年底的时候精通于python和pwn。我们还是太菜了。</p>
+<p>不过这个机械键盘玩起来挺爽的…</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;浪了很久终于试了一遍被吊打的滋味。&lt;/p&gt;
+&lt;p&gt;我们在公司的晚上。明知道第二天要比赛，还作死熬到2点睡，并且调了个4点55闹钟。睡了三个小时。&lt;/p&gt;
+&lt;p&gt;赛场上全程都在飘，开始的时候秒了一道签到题，接着就全程划水。key处于崩溃边缘，感冒+休息不足，基本废了。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+  </entry>
   
   <entry>
     <title>比PentestBox屌，看我如何打造高效率渗透测试环境以及其他优化</title>
@@ -384,9 +415,9 @@
     </summary>
     
     
-      <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
-    
       <category term="杂记" scheme="http://0chencc.github.io/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+      <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
     
   </entry>
   
@@ -475,11 +506,11 @@
     </summary>
     
     
-      <category term="Python" scheme="http://0chencc.github.io/tags/Python/"/>
-    
       <category term="CTFCrackTools" scheme="http://0chencc.github.io/tags/CTFCrackTools/"/>
     
       <category term="Java" scheme="http://0chencc.github.io/tags/Java/"/>
+    
+      <category term="Python" scheme="http://0chencc.github.io/tags/Python/"/>
     
       <category term="Jython" scheme="http://0chencc.github.io/tags/Jython/"/>
     
