@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://0chencc.github.io/"/>
-  <updated>2017-09-05T15:48:28.360Z</updated>
+  <updated>2017-09-10T08:11:14.633Z</updated>
   <id>http://0chencc.github.io/</id>
   
   <author>
@@ -14,6 +14,47 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>9月10号杂记</title>
+    <link href="http://0chencc.github.io/2017/09/10/9%E6%9C%8810%E5%8F%B7%E6%9D%82%E8%AE%B0/"/>
+    <id>http://0chencc.github.io/2017/09/10/9月10号杂记/</id>
+    <published>2017-09-10T07:51:39.000Z</published>
+    <updated>2017-09-10T08:11:14.633Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近这段时间，在忙工作，在忙学习，在忙学编程。</p>
+<p>利用现有的资源在学习一些新的语言，相当于回炉再造，这次学的不是Java。</p>
+<p>薛之谦结婚的时候，我是单身狗。</p>
+<p>薛之谦离婚的时候，我是单身狗。</p>
+<p>前几天他复婚了，我还是单身狗。</p>
+<p>单身狗的单身问题还是得不到解决。</p>
+<p>猛地发现圈子里有很多人都创业了，认识的和不认识的，熟悉的和不熟悉的，很多。跟某人在聊，他说：不知道你们发现没有，16年开始成立的信息安全公司特别多。</p>
+<p>我一直都在怀疑信安圈的创业是不是一个泡沫，是不是被一群大佬们唬骗引发的假热潮。</p>
+<p>如今的社会降低了创业的门槛，却提高了成功的难度。太难受。</p>
+<p>至于信安技术的继续深入学习，我觉得是大家都应该去做的，只是你没接触过，高山仰止。</p>
+<p>在知乎上找到了很久之前点赞的关于国父孙大炮的回答。</p>
+<p>才记起来宋先生是在国父49岁的时候才带回家的，宋先生当时是22岁。</p>
+<p>在此之前，国父是阅人无数，被调侃为“中华童萌会”。</p>
+<p>宋先生是在一岁多的时候就被国父许下了守护一生的愿望。</p>
+<p>国父49岁是1915年，袁世凯称帝。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近这段时间，在忙工作，在忙学习，在忙学编程。&lt;/p&gt;
+&lt;p&gt;利用现有的资源在学习一些新的语言，相当于回炉再造，这次学的不是Java。&lt;/p&gt;
+&lt;p&gt;薛之谦结婚的时候，我是单身狗。&lt;/p&gt;
+&lt;p&gt;薛之谦离婚的时候，我是单身狗。&lt;/p&gt;
+&lt;p&gt;前几天他复婚了，我还是单身狗。&lt;
+    
+    </summary>
+    
+    
+      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
+    
+      <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+  </entry>
   
   <entry>
     <title>9月5号杂笔</title>
@@ -544,11 +585,11 @@
     </summary>
     
     
-      <category term="Python" scheme="http://0chencc.github.io/tags/Python/"/>
-    
       <category term="CTFCrackTools" scheme="http://0chencc.github.io/tags/CTFCrackTools/"/>
     
       <category term="Java" scheme="http://0chencc.github.io/tags/Java/"/>
+    
+      <category term="Python" scheme="http://0chencc.github.io/tags/Python/"/>
     
       <category term="Jython" scheme="http://0chencc.github.io/tags/Jython/"/>
     
