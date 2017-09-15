@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://0chencc.github.io/"/>
-  <updated>2017-09-10T08:11:14.633Z</updated>
+  <updated>2017-09-15T14:00:45.056Z</updated>
   <id>http://0chencc.github.io/</id>
   
   <author>
@@ -14,6 +14,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>9月15日杂记</title>
+    <link href="http://0chencc.github.io/2017/09/15/9%E6%9C%8815%E6%97%A5%E6%9D%82%E8%AE%B0/"/>
+    <id>http://0chencc.github.io/2017/09/15/9月15日杂记/</id>
+    <published>2017-09-15T12:43:58.000Z</published>
+    <updated>2017-09-15T14:00:45.056Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天终于读完了鲁迅先生的《呐喊》，感触颇深。算是在理科题海中脱身时的一种放松。</p>
+<p>每一次读书，过后都会让我感受到全身心的放松。</p>
+<p>下周可以开始读一些新的。</p>
+<p>今天发生了一件小事，足以看出今年这个班的班长，三观极正。具体待考察，目前的印象蛮好。</p>
+<p>还有旁桌，包括但不限于同桌。人才颇多，智商奇高，只是不太喜欢老师，喜欢自己写，很努力。</p>
+<p>还行，今年总算能比去年进步稍许。</p>
+<p>昨天晚上乱更新github，查了相关资料，神不知鬼不觉地回滚了一下，希望昨天晚上没人看到我那波傻逼操作。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天终于读完了鲁迅先生的《呐喊》，感触颇深。算是在理科题海中脱身时的一种放松。&lt;/p&gt;
+&lt;p&gt;每一次读书，过后都会让我感受到全身心的放松。&lt;/p&gt;
+&lt;p&gt;下周可以开始读一些新的。&lt;/p&gt;
+&lt;p&gt;今天发生了一件小事，足以看出今年这个班的班长，三观极正。具体待考察，目前的印象蛮
+    
+    </summary>
+    
+    
+      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
+    
+      <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+  </entry>
   
   <entry>
     <title>9月10号杂记</title>
@@ -418,9 +450,9 @@
     </summary>
     
     
-      <category term="中国古代史" scheme="http://0chencc.github.io/tags/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%8F%B2/"/>
-    
       <category term="中国古代富豪录" scheme="http://0chencc.github.io/tags/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%AF%8C%E8%B1%AA%E5%BD%95/"/>
+    
+      <category term="中国古代史" scheme="http://0chencc.github.io/tags/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%8F%B2/"/>
     
   </entry>
   
@@ -585,11 +617,11 @@
     </summary>
     
     
+      <category term="Python" scheme="http://0chencc.github.io/tags/Python/"/>
+    
       <category term="CTFCrackTools" scheme="http://0chencc.github.io/tags/CTFCrackTools/"/>
     
       <category term="Java" scheme="http://0chencc.github.io/tags/Java/"/>
-    
-      <category term="Python" scheme="http://0chencc.github.io/tags/Python/"/>
     
       <category term="Jython" scheme="http://0chencc.github.io/tags/Jython/"/>
     
@@ -747,9 +779,9 @@
     </summary>
     
     
-      <category term="中国古代史" scheme="http://0chencc.github.io/tags/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%8F%B2/"/>
-    
       <category term="中国古代富豪录" scheme="http://0chencc.github.io/tags/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%AF%8C%E8%B1%AA%E5%BD%95/"/>
+    
+      <category term="中国古代史" scheme="http://0chencc.github.io/tags/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%8F%B2/"/>
     
   </entry>
   
