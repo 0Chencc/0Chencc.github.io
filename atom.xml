@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://0chencc.github.io/"/>
-  <updated>2017-09-15T14:06:27.322Z</updated>
+  <updated>2017-09-18T15:09:45.786Z</updated>
   <id>http://0chencc.github.io/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>现实真狗，活着真难</title>
+    <link href="http://0chencc.github.io/2017/09/18/%E7%8E%B0%E5%AE%9E%E7%9C%9F%E7%8B%97%EF%BC%8C%E6%B4%BB%E7%9D%80%E7%9C%9F%E9%9A%BE/"/>
+    <id>http://0chencc.github.io/2017/09/18/现实真狗，活着真难/</id>
+    <published>2017-09-18T15:08:31.000Z</published>
+    <updated>2017-09-18T15:09:45.786Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="操你妈"><a href="#操你妈" class="headerlink" title="操你妈"></a>操你妈</h1>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;操你妈&quot;&gt;&lt;a href=&quot;#操你妈&quot; class=&quot;headerlink&quot; title=&quot;操你妈&quot;&gt;&lt;/a&gt;操你妈&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
+    
+      <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+  </entry>
   
   <entry>
     <title>9月15日杂记</title>
@@ -618,11 +640,11 @@
     </summary>
     
     
-      <category term="Python" scheme="http://0chencc.github.io/tags/Python/"/>
-    
       <category term="CTFCrackTools" scheme="http://0chencc.github.io/tags/CTFCrackTools/"/>
     
       <category term="Java" scheme="http://0chencc.github.io/tags/Java/"/>
+    
+      <category term="Python" scheme="http://0chencc.github.io/tags/Python/"/>
     
       <category term="Jython" scheme="http://0chencc.github.io/tags/Jython/"/>
     
