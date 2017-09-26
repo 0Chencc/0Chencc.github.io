@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://0chencc.github.io/"/>
-  <updated>2017-09-19T15:07:21.070Z</updated>
+  <updated>2017-09-26T14:39:13.441Z</updated>
   <id>http://0chencc.github.io/</id>
   
   <author>
@@ -14,6 +14,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>9月26号杂笔</title>
+    <link href="http://0chencc.github.io/2017/09/26/9%E6%9C%8826%E5%8F%B7%E6%9D%82%E7%AC%94/"/>
+    <id>http://0chencc.github.io/2017/09/26/9月26号杂笔/</id>
+    <published>2017-09-26T14:35:34.000Z</published>
+    <updated>2017-09-26T14:39:13.441Z</updated>
+    
+    <content type="html"><![CDATA[<p>人生在世，大概是先苦后甜再苦。内心会被理想，道德，私欲不断鞭挞，你会听到有个声音在高喊：坚持！坚持！</p>
+<p>倘若没倒下，那么在这之前的所有叫喊都是无病呻吟。</p>
+<p>一直都认为挚友不因为小事而破坏关系，现在想来大概是太年轻，为了某种理想而抓住它不肯放手，最终还是屈服于现实，承认你我只是庸人，你我皆是凡躯。</p>
+<p>曾经一同乘坐开往梦想彼岸的小舟也因为少了一个或俩个人而失去平衡，使得遇风更易倒，遇浪更易翻。</p>
+<p>但是我们一直在路上，就好。</p>
+<p>你提前下了车，而车子却仍在原地，我们会等你下车抽烟，买条冰淇淋回来。我们再一起驶向远方。</p>
+<p>人不能同草木同腐，醉生梦死枉度人生。人应当有所作为。</p>
+<p>无论何时何地，请你别忘了，恰同学少年。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;人生在世，大概是先苦后甜再苦。内心会被理想，道德，私欲不断鞭挞，你会听到有个声音在高喊：坚持！坚持！&lt;/p&gt;
+&lt;p&gt;倘若没倒下，那么在这之前的所有叫喊都是无病呻吟。&lt;/p&gt;
+&lt;p&gt;一直都认为挚友不因为小事而破坏关系，现在想来大概是太年轻，为了某种理想而抓住它不肯放手，最终还
+    
+    </summary>
+    
+    
+      <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
+    
+  </entry>
   
   <entry>
     <title>尽人事，以听天命</title>
@@ -507,9 +539,9 @@
     </summary>
     
     
-      <category term="中国古代史" scheme="http://0chencc.github.io/tags/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%8F%B2/"/>
-    
       <category term="中国古代富豪录" scheme="http://0chencc.github.io/tags/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%AF%8C%E8%B1%AA%E5%BD%95/"/>
+    
+      <category term="中国古代史" scheme="http://0chencc.github.io/tags/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%8F%B2/"/>
     
   </entry>
   
@@ -836,9 +868,9 @@
     </summary>
     
     
-      <category term="中国古代史" scheme="http://0chencc.github.io/tags/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%8F%B2/"/>
-    
       <category term="中国古代富豪录" scheme="http://0chencc.github.io/tags/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%AF%8C%E8%B1%AA%E5%BD%95/"/>
+    
+      <category term="中国古代史" scheme="http://0chencc.github.io/tags/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%8F%B2/"/>
     
   </entry>
   
@@ -1262,25 +1294,6 @@
       <category term="旅行杂记" scheme="http://0chencc.github.io/tags/%E6%97%85%E8%A1%8C%E6%9D%82%E8%AE%B0/"/>
     
       <category term="杭州旅行" scheme="http://0chencc.github.io/tags/%E6%9D%AD%E5%B7%9E%E6%97%85%E8%A1%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World!</title>
-    <link href="http://0chencc.github.io/2017/06/02/Hello-World/"/>
-    <id>http://0chencc.github.io/2017/06/02/Hello-World/</id>
-    <published>2017-06-02T11:42:42.000Z</published>
-    <updated>2017-06-02T11:47:46.436Z</updated>
-    
-    <content type="html"><![CDATA[<p>程序员的世界里，每个程序员开始旅途的起点，便是”Hello World”<br><br>于是我用”Hello World”作为博客最开始的开始<br><br>希望这个博客能够承载我足够多的回忆以及这时或那时的想法<br><br>当我数年数十年过后再度回首再翻起这里写的点点滴滴时心里能有所触动.<br><br>也希望有不少人能为我的文字所感动，为我的思想所感慨.<br></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;程序员的世界里，每个程序员开始旅途的起点，便是”Hello World”&lt;br&gt;&lt;br&gt;于是我用”Hello World”作为博客最开始的开始&lt;br&gt;&lt;br&gt;希望这个博客能够承载我足够多的回忆以及这时或那时的想法&lt;br&gt;&lt;br&gt;当我数年数十年过后再度回首再翻起这里写的点点滴
-    
-    </summary>
-    
     
   </entry>
   
