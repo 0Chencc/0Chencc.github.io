@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://0chencc.github.io/"/>
-  <updated>2017-09-26T14:39:13.441Z</updated>
+  <updated>2017-10-07T11:50:37.713Z</updated>
   <id>http://0chencc.github.io/</id>
   
   <author>
@@ -14,6 +14,54 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>国庆假期</title>
+    <link href="http://0chencc.github.io/2017/10/07/%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F/"/>
+    <id>http://0chencc.github.io/2017/10/07/国庆假期/</id>
+    <published>2017-10-07T11:32:33.000Z</published>
+    <updated>2017-10-07T11:50:37.713Z</updated>
+    
+    <content type="html"><![CDATA[<p>本来，我应该更新一下中国富豪录，或者说多写几行代码的。</p>
+<p>但是我发现写中国富豪录的时候，遇到的一些瓶颈。我发现以我的学识完全不足以支撑我想要完成的事情。所以我想继续学习。</p>
+<p>同样是00后，在知乎这个被鼓吹为逼乎的社区内，仍旧有一些00后让我大开眼界，他们在编程一道上完全可以吊打我。（尽管他们在git的star还不到我的一半，逃</p>
+<p>kotlin还有Haskell，都是我目前想学的东西，因为我想了解一下函数式编程，想体会一下kotlin这款传说优于Java的语言，大家都知道我是写Java的。</p>
+<p>我还有工作，我得想办法写我们将在广州举办的沙龙是什么样的，需要什么资源。等等。</p>
+<p>太多这些东西压在你的身上，反而会让你寸步难行。就犹如一个人在沙漠中行走，因为背负太多日常用品反而容易累倒在沙漠中。</p>
+<hr>
+<p>这段时间实际上我也并非无不作为。王者荣耀也玩得有些无聊，开始入手剑与家园，一款王思聪在当国王的游戏。后来我发现，日日夜夜的肝也比不过土豪玩家一掷千金。更有甚者，他们当起了雇佣兵，留下微信，如果跟谁有仇，微信打钱，然后他们过去打他，也有的雇他们去占领城池，打到剩一丝血，老板过去收城池。</p>
+<hr>
+<p>那么谈完游戏，还有精神。</p>
+<p>至于肉体，我也有打一场篮球…满头大汗…</p>
+<p>我好像是4号晚上才开始有自己支配的时间，真正是在5号。我那天刷完了从零开始的异世界生活剩下的那几集，我入坑有点晚，最早那十几集是在杭州那段时间看的，剩下的五六集在4、5号看完。</p>
+<p>然后我就看开讲了，看了几集之后，就开始看奇葩说，看到如今…</p>
+<p>我发现我打开了异世界的大门，不在乎于他们的论点，而在于我发现这世界还有更多奇人怪才。他们可能有的论点会折服于我，会使我对以前坚定的信仰产生怀揣不定。但是在思考过后，所幸是有收获。这大概是我要在9号面对考试之前所收获的精神升华。</p>
+<hr>
+<p>一直聊生活，感觉也有点累，说说一些编程的冷知识。可能有点傻逼。</p>
+<p>我的框架收到了一份Bug，说不支持小数点的进制转换。</p>
+<blockquote>
+<p>那什么是进制转换呢，其实进制转换如果正常学习的话，在高中的数学必修3的课程是有的：</p>
+<p>一个数不停除以进制数，将商再除以进制数，最后将所有余数从尾到头连在一起，就是该进制下的数。</p>
+</blockquote>
+<p>那为什么小数转换不了呢？因为有无限小数…</p>
+<hr>
+<p>好久不见。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本来，我应该更新一下中国富豪录，或者说多写几行代码的。&lt;/p&gt;
+&lt;p&gt;但是我发现写中国富豪录的时候，遇到的一些瓶颈。我发现以我的学识完全不足以支撑我想要完成的事情。所以我想继续学习。&lt;/p&gt;
+&lt;p&gt;同样是00后，在知乎这个被鼓吹为逼乎的社区内，仍旧有一些00后让我大开眼界，
+    
+    </summary>
+    
+    
+      <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
+    
+  </entry>
   
   <entry>
     <title>9月26号杂笔</title>
@@ -1230,61 +1278,6 @@
     
       &lt;p&gt;今天是在杭州第二天。&lt;/p&gt;
 &lt;p&gt;早上8点钟起床，翻来覆去一阵子。最终打败了睡意，到了一楼吃早餐。我住的民宿早上会提供一些简单的吃食，对于我来说已经足够了&lt;br&gt;&lt;img src=&quot;http://oqz4ehyp7.bkt.clouddn.com/blog/2017060
-    
-    </summary>
-    
-    
-      <category term="旅游" scheme="http://0chencc.github.io/tags/%E6%97%85%E6%B8%B8/"/>
-    
-      <category term="旅行杂记" scheme="http://0chencc.github.io/tags/%E6%97%85%E8%A1%8C%E6%9D%82%E8%AE%B0/"/>
-    
-      <category term="杭州旅行" scheme="http://0chencc.github.io/tags/%E6%9D%AD%E5%B7%9E%E6%97%85%E8%A1%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>杭州第一天</title>
-    <link href="http://0chencc.github.io/2017/06/03/HangZhouFirstDay/"/>
-    <id>http://0chencc.github.io/2017/06/03/HangZhouFirstDay/</id>
-    <published>2017-06-03T12:51:43.000Z</published>
-    <updated>2017-08-06T09:05:13.293Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天在老家乘飞机到了杭州</p>
-<p>经过航班延误之后，抵达了萧山机场</p>
-<p>还算没延误太久，时间也在自己的预料之内</p>
-<p>于是马上叫了辆车带我到了我住的地方</p>
-<h2 id="酒店"><a href="#酒店" class="headerlink" title="酒店"></a>酒店</h2><p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170603/233643650.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170603/233717273.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170603/233853903.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170603/233924709.jpg" alt="mark"><br><em>&lt;这是我住的地方–民宿–位于灵隐寺旁&gt;</em></p>
-<h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>我先研究了Hexo的主题配置，再将博客顺利配置完成之后。</p>
-<p>带上装备便出门了</p>
-<p>我住在灵隐寺旁边，我的本意是用OFO出门，但是扫了好几辆全是故障无法使用的车子</p>
-<p>滴滴也叫不到一辆车，所幸来了辆出租车</p>
-<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170603/234526448.jpg" alt="mark"></p>
-<p><em>&lt;我住的地方出门后遇到的风景其实非常美&gt;</em></p>
-<h2 id="西湖的徘徊"><a href="#西湖的徘徊" class="headerlink" title="西湖的徘徊"></a>西湖的徘徊</h2><p>出租车因为遇上节假日人流高峰期，我选择在西湖边停，距离我的目的地断桥还有一小段距离</p>
-<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170603/234829612.jpg" alt="mark"></p>
-<p><em>&lt;终于骑上了OFO&gt;</em><br>开启了瞎转悠模式,放上几张图片给你们看看我到了什么地方</p>
-<p>(路过了武松墓和苏小小墓，苏小小墓没拍照，人太多。武松墓拍了，照片太大无法上传)</p>
-<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170603/234959210.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170603/235144628.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170603/235408757.jpg" alt="mark"></p>
-<p><em>&lt;七牛云太苦逼了，不能传很多拍得算好看的照片&gt;</em></p>
-<h2 id="吃天地"><a href="#吃天地" class="headerlink" title="吃天地"></a>吃天地</h2><p>经过了楼外楼，不传照片，因为没有拍到好的。</p>
-<p>此时已经傍晚，我已经经过断桥并且小休息了一会。</p>
-<p>我素来便是吃货，靠一招吃通天走遍天下。</p>
-<p>所以我带着我的坐骑向城区的小吃街(河坊街)</p>
-<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/001421129.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/001545596.jpg" alt="mark"><br><em>&lt;上图为在骑行过程中随手拍摄，杭州绿化真的非常赞&gt;</em></p>
-<p>漫长一小时过去，我终于来到了河坊街<br><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/001341687.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/001748506.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/001822683.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/001858534.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/001957477.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/002018585.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/002048404.jpg" alt="mark"><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/002119285.jpg" alt="mark"><br><em>&lt;这里包含了几乎国内所有美食和国外部分美食，琳琅满目，我因为生病所以没有吃这些辛辣的。</em></p>
-<p><em>只是买了一杯奶茶和一种不知道什么鬼的饭吃了吃。&gt;</em><br><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/002143819.jpg" alt="mark"><br>因为不能吃小吃街的东西，所以吃正餐，西湖醋鱼，西湖虾仁，东坡肉。</p>
-<p>非常不错的一次体验，这些吃的非常可口。</p>
-<h2 id="休息"><a href="#休息" class="headerlink" title="休息"></a>休息</h2><p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20170604/002549465.jpg" alt="mark"></p>
-<p>来之前找我老妈要了点在云南买的茉莉花茶，再感受下山里的宁静，休息之后明天继续游玩。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;今天在老家乘飞机到了杭州&lt;/p&gt;
-&lt;p&gt;经过航班延误之后，抵达了萧山机场&lt;/p&gt;
-&lt;p&gt;还算没延误太久，时间也在自己的预料之内&lt;/p&gt;
-&lt;p&gt;于是马上叫了辆车带我到了我住的地方&lt;/p&gt;
-&lt;h2 id=&quot;酒店&quot;&gt;&lt;a href=&quot;#酒店&quot; class=&quot;headerlink&quot;
     
     </summary>
     
