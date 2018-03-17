@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://0chencc.github.io/"/>
-  <updated>2018-03-17T10:52:23.084Z</updated>
+  <updated>2018-03-17T14:59:07.311Z</updated>
   <id>http://0chencc.github.io/</id>
   
   <author>
@@ -14,6 +14,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我可不是你们“安全圈”的人</title>
+    <link href="http://0chencc.github.io/2018/03/17/%E6%88%91%E5%8F%AF%E4%B8%8D%E6%98%AF%E4%BD%A0%E4%BB%AC%E5%AE%89%E5%85%A8%E5%9C%88%E7%9A%84%E4%BA%BA/"/>
+    <id>http://0chencc.github.io/2018/03/17/我可不是你们安全圈的人/</id>
+    <published>2018-03-17T10:44:00.000Z</published>
+    <updated>2018-03-17T14:59:07.311Z</updated>
+    
+    <content type="html"><![CDATA[<p>贵安全圈的人沉浸在自己“庞大”的“关系网”中，仿佛认识一些什么人才是彰显身份的关键。绝大部分安全圈底层的人民深以为：我认识某某我牛逼。<br>贵圈成功捧红了“小姐姐”这个职业，也通过这些人搭建了一个个以字母开头的集合：八卦、加微信、吹牛逼、发广告、艾特小姐姐聊骚、艾特大佬攀关系，这样的交流娱乐群。<br>加入了这些群，从此跨入安全圈，出门自称白帽子，谈技术只聊我认识谁，看到黑客话题的文章有自信地转发，看到活动感觉对方和自己有交情，应当捧一下自己的“好朋友”。<br>几个单词都没认全，但是各种src的小姐姐微信你全有，精通各个src的单词拼写以及收藏他们的网址。<br>不思推广技术，参加大会只为成为交际花。不思优化圈子质量，只想着怎么污染环境。高举“整合零散白帽子搭建社区”的大旗，干着祸害下一代白帽子的恶心事。<br>贵圈真乱，乱得彻底。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;贵安全圈的人沉浸在自己“庞大”的“关系网”中，仿佛认识一些什么人才是彰显身份的关键。绝大部分安全圈底层的人民深以为：我认识某某我牛逼。&lt;br&gt;贵圈成功捧红了“小姐姐”这个职业，也通过这些人搭建了一个个以字母开头的集合：八卦、加微信、吹牛逼、发广告、艾特小姐姐聊骚、艾特大佬攀
+    
+    </summary>
+    
+    
+      <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
+    
+      <category term="信息安全" scheme="http://0chencc.github.io/tags/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>无言独寂寥</title>
@@ -57,9 +82,9 @@
     </summary>
     
     
-      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
-    
       <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
     
   </entry>
   
@@ -98,9 +123,9 @@
     </summary>
     
     
-      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
-    
       <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
     
   </entry>
   
@@ -137,9 +162,9 @@
     </summary>
     
     
-      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
-    
       <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
     
   </entry>
   
@@ -196,9 +221,9 @@
     </summary>
     
     
-      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
-    
       <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
     
   </entry>
   
@@ -227,9 +252,9 @@
     </summary>
     
     
-      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
-    
       <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
     
   </entry>
   
@@ -275,9 +300,9 @@
     </summary>
     
     
-      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
-    
       <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
     
   </entry>
   
@@ -307,9 +332,9 @@
     </summary>
     
     
-      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
-    
       <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
     
   </entry>
   
@@ -339,9 +364,9 @@
     </summary>
     
     
-      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
-    
       <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
     
   </entry>
   
@@ -361,9 +386,9 @@
     </summary>
     
     
-      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
-    
       <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
     
   </entry>
   
@@ -394,9 +419,9 @@
     </summary>
     
     
-      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
-    
       <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
     
   </entry>
   
@@ -435,9 +460,9 @@
     </summary>
     
     
-      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
-    
       <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
     
   </entry>
   
@@ -475,9 +500,9 @@
     </summary>
     
     
-      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
-    
       <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
+    
+      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
     
   </entry>
   
@@ -840,9 +865,9 @@
     
       <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
     
-      <category term="米斯特安全团队" scheme="http://0chencc.github.io/tags/%E7%B1%B3%E6%96%AF%E7%89%B9%E5%AE%89%E5%85%A8%E5%9B%A2%E9%98%9F/"/>
-    
       <category term="信息安全" scheme="http://0chencc.github.io/tags/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/"/>
+    
+      <category term="米斯特安全团队" scheme="http://0chencc.github.io/tags/%E7%B1%B3%E6%96%AF%E7%89%B9%E5%AE%89%E5%85%A8%E5%9B%A2%E9%98%9F/"/>
     
   </entry>
   
@@ -881,46 +906,9 @@
     </summary>
     
     
-      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
-    
       <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Python系列之--利用Python实现微博监控</title>
-    <link href="http://0chencc.github.io/2017/07/31/Python%E7%B3%BB%E5%88%97%E4%B9%8B--%E5%88%A9%E7%94%A8Python%E5%AE%9E%E7%8E%B0%E5%BE%AE%E5%8D%9A%E7%9B%91%E6%8E%A7/"/>
-    <id>http://0chencc.github.io/2017/07/31/Python系列之--利用Python实现微博监控/</id>
-    <published>2017-07-31T12:55:00.000Z</published>
-    <updated>2017-07-31T13:03:45.881Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="0x00-前言"><a href="#0x00-前言" class="headerlink" title="0x00 前言:"></a>0x00 前言:</h4><p><img src="http://i1.ciimg.com/602361/6d42627539f48ec3.png" alt="素材">前几个星期在写一个微博监控系统 可谓是一波三折啊 获取到微博后因为一些字符编码问题 导致心态爆炸开发中断 但是就在昨天发现了另外一个微博的接口  </p>
-<p>一个手机微博的接口<a href="https://m.weibo.cn/" target="_blank" rel="external">https://m.weibo.cn/</a> 经过一番测试后认为这个接口满足我的要求 就继续完成未完成的使命吧</p>
-<h4 id="0x01-分析"><a href="#0x01-分析" class="headerlink" title="0x01 分析:"></a>0x01 分析:</h4><p><img src="http://i1.ciimg.com/602361/3556aed5a00277f2.png" alt="素材">这个接口直接访问的话会有一个302跳转到一个登陆界面<br><img src="http://i1.ciimg.com/602361/7750485844244155.png" alt="Markdown"><br>也就是说这里需要先模拟登陆一下才可以访问到微博<br>抓个包分析了一下<br><img src="http://i1.ciimg.com/602361/1c5a2cc87e05b64c.png" alt="Markdown"><br>发现只要用户名和密码正确既返回200且json部分的retcode会返回20000000<br><img src="http://i1.ciimg.com/602361/a2cd14dc4bb4edb5.png" alt="素材">少了验证码这一大坑 那模拟登陆就相当简单啦  </p>
-<p>登陆完后访问用户主页 例如:<a href="https://m.weibo.cn/u/3023940914" target="_blank" rel="external">https://m.weibo.cn/u/3023940914</a><br>可以在审查元素的Network模块看到 这里用了两个xhr来加载用户信息及微博信息<br><img src="http://i2.tiimg.com/602361/926e38139300a5bf.png" alt="Markdown"><br><img src="http://i1.ciimg.com/602361/12f1bfeafeba4a7a.png" alt="素材">分别是<br><a href="https://m.weibo.cn/api/container/getIndex?type=uid&amp;value=3023940914&amp;containerid=1005053023940914" target="_blank" rel="external">https://m.weibo.cn/api/container/getIndex?type=uid&amp;value=3023940914&amp;containerid=1005053023940914</a><br><a href="https://m.weibo.cn/api/container/getIndex?type=uid&amp;value=3023940914&amp;containerid=1076033023940914" target="_blank" rel="external">https://m.weibo.cn/api/container/getIndex?type=uid&amp;value=3023940914&amp;containerid=1076033023940914</a><br>经过测试这个接口直接加上<strong>type</strong>和<strong>value</strong>参数访问 就相当于第一个接口 不必加上<strong>containerid</strong>参数<br>而第二个接口的<strong>containerid</strong>参数则是通过第一个接口获取的  </p>
-<p><img src="http://i1.ciimg.com/602361/3556aed5a00277f2.png" alt="素材">获取到第二个<strong>containerid</strong>参数访问第二个接口就可以获取到这个<strong>uid</strong>发布的微博了<br><img src="http://i1.ciimg.com/602361/70c99f77d40bf8ed.png" alt="Markdown"><br>返回的是json格式的数据 用户的微博信息都在<strong>cards</strong>列表里每条数据的<strong>mblog</strong>数组里面 包括<strong>微博正文、图片、来源与时间</strong>等<br><img src="http://i1.ciimg.com/602361/acef3c6c9e7e700e.png" alt="素材">其中<strong>card_type</strong>标识的是微博类型 例如:文字微博 图片微博 视频微博 转发等 经过测试文字微博和图片微博的<strong>card_type</strong>标识都一样为9  </p>
-<p>这里初步只开发监控文字和图片微博的功能<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div></pre></td><td class="code"><pre><div class="line"></div><div class="line">#### 0x02 开发</div><div class="line">![素材](http://i1.ciimg.com/602361/6869750adb42eee2.png)首先需要模拟登陆 后续的操作都需要基于登陆的格调来进行 也是需要在同个会话进行 可以使用**requests.session()** 方法来完成  </div><div class="line">代码片段:</div><div class="line">```Python</div><div class="line">reqHeaders = &#123;</div><div class="line">    &apos;User-Agent&apos;: &apos;Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0&apos;,</div><div class="line">    &apos;Content-Type&apos;: &apos;application/x-www-form-urlencoded&apos;,</div><div class="line">    &apos;Referer&apos;: &apos;https://passport.weibo.cn/signin/login&apos;,</div><div class="line">    &apos;Connection&apos;: &apos;close&apos;,</div><div class="line">    &apos;Accept-Language&apos;: &apos;zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3&apos;</div><div class="line">&#125;</div><div class="line">loginApi = &apos;https://passport.weibo.cn/sso/login&apos;</div><div class="line">loginPostData = &#123;</div><div class="line">    &apos;username&apos;:userName,</div><div class="line">    &apos;password&apos;:passWord,</div><div class="line">    &apos;savestate&apos;:1,</div><div class="line">    &apos;r&apos;:&apos;&apos;,</div><div class="line">    &apos;ec&apos;:&apos;0&apos;,</div><div class="line">    &apos;pagerefer&apos;:&apos;&apos;,</div><div class="line">    &apos;entry&apos;:&apos;mweibo&apos;,</div><div class="line">    &apos;wentry&apos;:&apos;&apos;,</div><div class="line">    &apos;loginfrom&apos;:&apos;&apos;,</div><div class="line">    &apos;client_id&apos;:&apos;&apos;,</div><div class="line">    &apos;code&apos;:&apos;&apos;,</div><div class="line">    &apos;qq&apos;:&apos;&apos;,</div><div class="line">    &apos;mainpageflag&apos;:1,</div><div class="line">    &apos;hff&apos;:&apos;&apos;,</div><div class="line">    &apos;hfp&apos;:&apos;&apos;</div><div class="line">&#125;</div><div class="line">#get user session</div><div class="line">session = requests.session()</div><div class="line">try:</div><div class="line">    r = session.post(loginApi,data=loginPostData,headers=reqHeaders)</div><div class="line">    if r.status_code == 200 and json.loads(r.text)[&apos;retcode&apos;] == 20000000:</div><div class="line">        #successful</div><div class="line">        #do someting</div><div class="line">    else:</div><div class="line">        #Logon failure!</div><div class="line">except Exception as e:</div><div class="line">    #Logon failure!</div></pre></td></tr></table></figure></p>
-<p><img src="http://i1.ciimg.com/602361/3b9a86501a0ae30b.png" alt="素材">登陆完成后就可以拼接用户id访问前面说的第一个接口了<br>访问完后再拼接<strong>containerid</strong>参数获取微博信息的json数据<br>代码片段:<br><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#get user weibo containerid</span></div><div class="line">userInfo <span class="string">'https://m.weibo.cn/api/container/getIndex?uid=%s&amp;type=uid&amp;value=%s'</span>%(wbUserId,wbUserId)</div><div class="line"><span class="keyword">try</span>:</div><div class="line">    r = session.get(userInfo,headers=reqHeaders)</div><div class="line">    <span class="keyword">for</span> i <span class="keyword">in</span> r.json()[<span class="string">'tabsInfo'</span>][<span class="string">'tabs'</span>]:</div><div class="line">        <span class="keyword">if</span> i[<span class="string">'tab_type'</span>] == <span class="string">'weibo'</span>:</div><div class="line">            conId = i[<span class="string">'containerid'</span>]</div><div class="line"><span class="keyword">except</span> Exception <span class="keyword">as</span> e:</div><div class="line">    <span class="comment">#failure!</span></div><div class="line"><span class="comment">#get user weibo index</span></div><div class="line">weiboInfo = <span class="string">'https://m.weibo.cn/api/container/getIndex?uid=%s&amp;type=uid&amp;value=%s&amp;containerid=%s'</span>%(wbUserId,wbUserId,conId)</div><div class="line"><span class="keyword">try</span>:</div><div class="line">    r = session.get(weiboInfo,headers=reqHeaders)</div><div class="line">    itemIds = []   <span class="comment">#WBQueue</span></div><div class="line">    <span class="keyword">for</span> i <span class="keyword">in</span> r.json()[<span class="string">'cards'</span>]:</div><div class="line">        <span class="keyword">if</span> i[<span class="string">'card_type'</span>] == <span class="number">9</span>:</div><div class="line">            itemIds.append(i[<span class="string">'mblog'</span>][<span class="string">'id'</span>])</div><div class="line"><span class="keyword">except</span> Exception <span class="keyword">as</span> e:</div><div class="line">    <span class="comment">#failure!</span></div></pre></td></tr></table></figure></p>
-<p><img src="http://i1.ciimg.com/602361/565c21f8e0a660b1.png" alt="素材">这里把所有获取到的微博的id存起来 后面继续访问是发现有新的微博id不在这个列表里就证明是新发布的微博<br>代码片段:<br><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">def</span> <span class="title">startMonitor</span><span class="params">()</span>:</span></div><div class="line">      returnDict = &#123;&#125;</div><div class="line">      <span class="keyword">try</span>:</div><div class="line">          r = session.get(weiboInfo,headers=reqHeaders)</div><div class="line">          <span class="keyword">for</span> i <span class="keyword">in</span> r.json()[<span class="string">'cards'</span>]:</div><div class="line">              <span class="keyword">if</span> i[<span class="string">'card_type'</span>] == <span class="number">9</span>:</div><div class="line">                  <span class="keyword">if</span> str(i[<span class="string">'mblog'</span>][<span class="string">'id'</span>]) <span class="keyword">not</span> <span class="keyword">in</span> itemIds:</div><div class="line">                      itemIds.append(i[<span class="string">'mblog'</span>][<span class="string">'id'</span>])</div><div class="line">                      <span class="comment">#Got a new weibo</span></div><div class="line">                      <span class="comment">#@ return returnDict dict</span></div><div class="line">                      returnDict[<span class="string">'created_at'</span>] = i[<span class="string">'mblog'</span>][<span class="string">'created_at'</span>]</div><div class="line">                      returnDict[<span class="string">'text'</span>] = i[<span class="string">'mblog'</span>][<span class="string">'text'</span>]</div><div class="line">                      returnDict[<span class="string">'source'</span>] = i[<span class="string">'mblog'</span>][<span class="string">'source'</span>]</div><div class="line">                      returnDict[<span class="string">'nickName'</span>] = i[<span class="string">'mblog'</span>][<span class="string">'user'</span>][<span class="string">'screen_name'</span>]</div><div class="line">                      <span class="comment">#if has photos</span></div><div class="line">                      <span class="keyword">if</span> i[<span class="string">'mblog'</span>].has_key(<span class="string">'pics'</span>):</div><div class="line">                          returnDict[<span class="string">'picUrls'</span>] = []</div><div class="line">                          <span class="keyword">for</span> j <span class="keyword">in</span> i[<span class="string">'mblog'</span>][<span class="string">'pics'</span>]:</div><div class="line">                              returnDict[<span class="string">'picUrls'</span>].append(j[<span class="string">'url'</span>])</div><div class="line">                      <span class="keyword">return</span> returnDict</div><div class="line">      <span class="keyword">except</span> Exception <span class="keyword">as</span> e:</div><div class="line">          <span class="comment">#failure!</span></div></pre></td></tr></table></figure></p>
-<p><img src="http://i1.ciimg.com/602361/8b469fd0042a4908.png" alt="素材">将这些方法封装成了一个类 完整代码如下<br><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div><div class="line">67</div><div class="line">68</div><div class="line">69</div><div class="line">70</div><div class="line">71</div><div class="line">72</div><div class="line">73</div><div class="line">74</div><div class="line">75</div><div class="line">76</div><div class="line">77</div><div class="line">78</div><div class="line">79</div><div class="line">80</div><div class="line">81</div><div class="line">82</div><div class="line">83</div><div class="line">84</div><div class="line">85</div><div class="line">86</div><div class="line">87</div><div class="line">88</div><div class="line">89</div><div class="line">90</div><div class="line">91</div><div class="line">92</div><div class="line">93</div><div class="line">94</div><div class="line">95</div><div class="line">96</div><div class="line">97</div><div class="line">98</div><div class="line">99</div><div class="line">100</div><div class="line">101</div><div class="line">102</div><div class="line">103</div><div class="line">104</div><div class="line">105</div><div class="line">106</div><div class="line">107</div><div class="line">108</div><div class="line">109</div><div class="line">110</div><div class="line">111</div><div class="line">112</div><div class="line">113</div><div class="line">114</div><div class="line">115</div><div class="line">116</div><div class="line">117</div><div class="line">118</div><div class="line">119</div><div class="line">120</div><div class="line">121</div><div class="line">122</div><div class="line">123</div><div class="line">124</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#!/usr/bin/env python</span></div><div class="line"><span class="comment"># -*- coding: utf-8 -*-</span></div><div class="line"><span class="comment"># Author    : 奶权</span></div><div class="line"><span class="comment"># Action    : 微博监控</span></div><div class="line"><span class="comment"># Desc      : 微博监控主模块</span></div><div class="line"></div><div class="line"><span class="keyword">import</span> requests,json,sys</div><div class="line"><span class="keyword">from</span> lxml <span class="keyword">import</span> etree</div><div class="line"></div><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">weiboMonitor</span><span class="params">()</span>:</span></div><div class="line">    <span class="string">"""</span></div><div class="line">        @   Class self  :</div><div class="line">    """</div><div class="line">    <span class="function"><span class="keyword">def</span> <span class="title">__init__</span><span class="params">(self, )</span>:</span></div><div class="line">        self.session = requests.session()</div><div class="line">        self.reqHeaders = &#123;</div><div class="line">            <span class="string">'User-Agent'</span>: <span class="string">'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0'</span>,</div><div class="line">            <span class="string">'Content-Type'</span>: <span class="string">'application/x-www-form-urlencoded'</span>,</div><div class="line">            <span class="string">'Referer'</span>: <span class="string">'https://passport.weibo.cn/signin/login'</span>,</div><div class="line">            <span class="string">'Connection'</span>: <span class="string">'close'</span>,</div><div class="line">            <span class="string">'Accept-Language'</span>: <span class="string">'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3'</span></div><div class="line">        &#125;</div><div class="line"></div><div class="line">    <span class="string">"""</span></div><div class="line">        @   Class self  :</div><div class="line">        @   String userName  : The username of weibo.cn</div><div class="line">        @   String passWord  : The password of weibo.cn</div><div class="line">    """</div><div class="line">    <span class="function"><span class="keyword">def</span> <span class="title">login</span><span class="params">(self, userName, passWord)</span>:</span></div><div class="line">        loginApi = <span class="string">'https://passport.weibo.cn/sso/login'</span></div><div class="line">        loginPostData = &#123;</div><div class="line">            <span class="string">'username'</span>:userName,</div><div class="line">            <span class="string">'password'</span>:passWord,</div><div class="line">            <span class="string">'savestate'</span>:<span class="number">1</span>,</div><div class="line">            <span class="string">'r'</span>:<span class="string">''</span>,</div><div class="line">            <span class="string">'ec'</span>:<span class="string">'0'</span>,</div><div class="line">            <span class="string">'pagerefer'</span>:<span class="string">''</span>,</div><div class="line">            <span class="string">'entry'</span>:<span class="string">'mweibo'</span>,</div><div class="line">            <span class="string">'wentry'</span>:<span class="string">''</span>,</div><div class="line">            <span class="string">'loginfrom'</span>:<span class="string">''</span>,</div><div class="line">            <span class="string">'client_id'</span>:<span class="string">''</span>,</div><div class="line">            <span class="string">'code'</span>:<span class="string">''</span>,</div><div class="line">            <span class="string">'qq'</span>:<span class="string">''</span>,</div><div class="line">            <span class="string">'mainpageflag'</span>:<span class="number">1</span>,</div><div class="line">            <span class="string">'hff'</span>:<span class="string">''</span>,</div><div class="line">            <span class="string">'hfp'</span>:<span class="string">''</span></div><div class="line">        &#125;</div><div class="line">        <span class="comment">#get user session</span></div><div class="line">        <span class="keyword">try</span>:</div><div class="line">            r = self.session.post(loginApi,data=loginPostData,headers=self.reqHeaders)</div><div class="line">            <span class="keyword">if</span> r.status_code == <span class="number">200</span> <span class="keyword">and</span> json.loads(r.text)[<span class="string">'retcode'</span>] == <span class="number">20000000</span>:</div><div class="line">                self.echoMsg(<span class="string">'Info'</span>,<span class="string">'Login successful! UserId:'</span>+json.loads(r.text)[<span class="string">'data'</span>][<span class="string">'uid'</span>])</div><div class="line">            <span class="keyword">else</span>:</div><div class="line">                self.echoMsg(<span class="string">'Error'</span>,<span class="string">'Logon failure!'</span>)</div><div class="line">                sys.exit()</div><div class="line">        <span class="keyword">except</span> Exception <span class="keyword">as</span> e:</div><div class="line">            self.echoMsg(<span class="string">'Error'</span>,e)</div><div class="line">            sys.exit()</div><div class="line"></div><div class="line">    <span class="string">"""</span></div><div class="line">        @   Class self  :</div><div class="line">        @   String wbUserId  : The user you want to monitored</div><div class="line">    """</div><div class="line">    <span class="function"><span class="keyword">def</span> <span class="title">getWBQueue</span><span class="params">(self, wbUserId)</span>:</span></div><div class="line">        <span class="comment">#get user weibo containerid</span></div><div class="line">        userInfo = <span class="string">'https://m.weibo.cn/api/container/getIndex?uid=%s&amp;type=uid&amp;value=%s'</span>%(wbUserId,wbUserId)</div><div class="line">        <span class="keyword">try</span>:</div><div class="line">            r = self.session.get(userInfo,headers=self.reqHeaders)</div><div class="line">            <span class="keyword">for</span> i <span class="keyword">in</span> r.json()[<span class="string">'tabsInfo'</span>][<span class="string">'tabs'</span>]:</div><div class="line">                <span class="keyword">if</span> i[<span class="string">'tab_type'</span>] == <span class="string">'weibo'</span>:</div><div class="line">                    conId = i[<span class="string">'containerid'</span>]</div><div class="line">        <span class="keyword">except</span> Exception <span class="keyword">as</span> e:</div><div class="line">            self.echoMsg(<span class="string">'Error'</span>,e)</div><div class="line">            sys.exit()</div><div class="line">        <span class="comment">#get user weibo index</span></div><div class="line">        self.weiboInfo = <span class="string">'https://m.weibo.cn/api/container/getIndex?uid=%s&amp;type=uid&amp;value=%s&amp;containerid=%s'</span>%(wbUserId,wbUserId,conId)</div><div class="line">        <span class="keyword">try</span>:</div><div class="line">            r = self.session.get(self.weiboInfo,headers=self.reqHeaders)</div><div class="line">            self.itemIds = []   <span class="comment">#WBQueue</span></div><div class="line">            <span class="keyword">for</span> i <span class="keyword">in</span> r.json()[<span class="string">'cards'</span>]:</div><div class="line">                <span class="keyword">if</span> i[<span class="string">'card_type'</span>] == <span class="number">9</span>:</div><div class="line">                    self.itemIds.append(i[<span class="string">'mblog'</span>][<span class="string">'id'</span>])</div><div class="line">            self.echoMsg(<span class="string">'Info'</span>,<span class="string">'Got weibos'</span>)</div><div class="line">            self.echoMsg(<span class="string">'Info'</span>,<span class="string">'Has %d id(s)'</span>%len(self.itemIds))</div><div class="line">        <span class="keyword">except</span> Exception <span class="keyword">as</span> e:</div><div class="line">            self.echoMsg(<span class="string">'Error'</span>,e)</div><div class="line">            sys.exit()</div><div class="line">    <span class="string">"""</span></div><div class="line">        @   Class self  :</div><div class="line">    """</div><div class="line">    <span class="function"><span class="keyword">def</span> <span class="title">startMonitor</span><span class="params">(self, )</span>:</span></div><div class="line">        returnDict = &#123;&#125;</div><div class="line">        <span class="keyword">try</span>:</div><div class="line">            r = self.session.get(self.weiboInfo,headers=self.reqHeaders)</div><div class="line">            <span class="keyword">for</span> i <span class="keyword">in</span> r.json()[<span class="string">'cards'</span>]:</div><div class="line">                <span class="keyword">if</span> i[<span class="string">'card_type'</span>] == <span class="number">9</span>:</div><div class="line">                    <span class="keyword">if</span> str(i[<span class="string">'mblog'</span>][<span class="string">'id'</span>]) <span class="keyword">not</span> <span class="keyword">in</span> self.itemIds:</div><div class="line">                        self.itemIds.append(i[<span class="string">'mblog'</span>][<span class="string">'id'</span>])</div><div class="line">                        self.echoMsg(<span class="string">'Info'</span>,<span class="string">'Got a new weibo'</span>)</div><div class="line">                        <span class="comment">#@ return returnDict dict</span></div><div class="line">                        returnDict[<span class="string">'created_at'</span>] = i[<span class="string">'mblog'</span>][<span class="string">'created_at'</span>]</div><div class="line">                        returnDict[<span class="string">'text'</span>] = i[<span class="string">'mblog'</span>][<span class="string">'text'</span>]</div><div class="line">                        returnDict[<span class="string">'source'</span>] = i[<span class="string">'mblog'</span>][<span class="string">'source'</span>]</div><div class="line">                        returnDict[<span class="string">'nickName'</span>] = i[<span class="string">'mblog'</span>][<span class="string">'user'</span>][<span class="string">'screen_name'</span>]</div><div class="line">                        <span class="comment">#if has photos</span></div><div class="line">                        <span class="keyword">if</span> i[<span class="string">'mblog'</span>].has_key(<span class="string">'pics'</span>):</div><div class="line">                            returnDict[<span class="string">'picUrls'</span>] = []</div><div class="line">                            <span class="keyword">for</span> j <span class="keyword">in</span> i[<span class="string">'mblog'</span>][<span class="string">'pics'</span>]:</div><div class="line">                                returnDict[<span class="string">'picUrls'</span>].append(j[<span class="string">'url'</span>])</div><div class="line">                        <span class="keyword">return</span> returnDict</div><div class="line">            self.echoMsg(<span class="string">'Info'</span>,<span class="string">'Has %d id(s)'</span>%len(self.itemIds))</div><div class="line">        <span class="keyword">except</span> Exception <span class="keyword">as</span> e:</div><div class="line">            self.echoMsg(<span class="string">'Error'</span>,e)</div><div class="line">            sys.exit()</div><div class="line"></div><div class="line">    <span class="string">"""</span></div><div class="line">        @   String level   : Info/Error</div><div class="line">        @   String msg     : The message you want to show</div><div class="line">    """</div><div class="line">    <span class="function"><span class="keyword">def</span> <span class="title">echoMsg</span><span class="params">(self, level, msg)</span>:</span></div><div class="line">        <span class="keyword">if</span> level == <span class="string">'Info'</span>:</div><div class="line">            <span class="keyword">print</span> <span class="string">'[Info] %s'</span>%msg</div><div class="line">        <span class="keyword">elif</span> level == <span class="string">'Error'</span>:</div><div class="line">            <span class="keyword">print</span> <span class="string">'[Error] %s'</span>%msg</div></pre></td></tr></table></figure></p>
-<p><img src="http://i1.ciimg.com/602361/12f1bfeafeba4a7a.png" alt="素材">写了个一发现有新微博就发邮件提醒的功能 完整代码见Github地址 <a href="https://github.com/naiquann/WBMonitor" target="_blank" rel="external">https://github.com/naiquann/WBMonitor</a>  </p>
-<h4 id="0x03-测试"><a href="#0x03-测试" class="headerlink" title="0x03 测试"></a>0x03 测试</h4><p><img src="http://i1.ciimg.com/602361/5b5dd2f6476c629e.png" alt="素材">运行代码<br><img src="http://i2.tiimg.com/602361/6414331da5040752.png" alt="Markdown"><br>填写完相关的登陆信息及要监控的用户的id后<br><img src="http://i2.tiimg.com/602361/4c933175b8562773.png" alt="Markdown"><br><img src="http://i1.ciimg.com/602361/6d42627539f48ec3.png" alt="素材">这里写了一个心跳包 每三秒访问一次看看有没有新微博发布<br>测试的时候这样比较方便 要是拿来用的话可以酌情增加间隔时间  </p>
-<p><img src="http://i1.ciimg.com/602361/7bcbe6e02e0171d7.png" alt="素材">当有微博发布的时候<br><img src="http://i2.tiimg.com/602361/ee6b842aed3efef8.png" alt="Markdown"><br><img src="http://i2.tiimg.com/602361/84396f4e9b8dc7c0.png" alt="Markdown"><br><img src="http://i1.ciimg.com/602361/7bcbe6e02e0171d7.png" alt="素材">大功告成啦 监控小姐姐的微博去喽~  </p>
-<blockquote>
-<p>本文作者:奶权#米斯特安全团队 转载请注明出处</p>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;0x00-前言&quot;&gt;&lt;a href=&quot;#0x00-前言&quot; class=&quot;headerlink&quot; title=&quot;0x00 前言:&quot;&gt;&lt;/a&gt;0x00 前言:&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;http://i1.ciimg.com/602361/6d42627539f
-    
-    </summary>
-    
-    
-      <category term="Python" scheme="http://0chencc.github.io/tags/Python/"/>
-    
-      <category term="爬虫" scheme="http://0chencc.github.io/tags/%E7%88%AC%E8%99%AB/"/>
+      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
     
   </entry>
   
