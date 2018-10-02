@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://0chencc.github.io/"/>
-  <updated>2018-07-19T07:29:07.660Z</updated>
+  <updated>2018-10-02T17:09:25.298Z</updated>
   <id>http://0chencc.github.io/</id>
   
   <author>
@@ -16,46 +16,50 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hacknet遭遇天才黑客Naix反制方法</title>
-    <link href="http://0chencc.github.io/2018/07/18/Hacknet%E9%81%AD%E9%81%87%E5%A4%A9%E6%89%8D%E9%BB%91%E5%AE%A2Naix%EF%BC%8C%E5%8F%8D%E5%88%B6%E6%96%B9%E6%B3%95/"/>
-    <id>http://0chencc.github.io/2018/07/18/Hacknet遭遇天才黑客Naix，反制方法/</id>
-    <published>2018-07-18T07:00:00.000Z</published>
-    <updated>2018-07-19T07:29:07.660Z</updated>
+    <title>好久不见了</title>
+    <link href="http://0chencc.github.io/2018/10/03/%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81%E4%BA%86/"/>
+    <id>http://0chencc.github.io/2018/10/03/好久不见了/</id>
+    <published>2018-10-02T16:46:54.000Z</published>
+    <updated>2018-10-02T17:09:25.298Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Hacknet遭遇天才黑客Naix反制方法"><a href="#Hacknet遭遇天才黑客Naix反制方法" class="headerlink" title="Hacknet遭遇天才黑客Naix反制方法"></a>Hacknet遭遇天才黑客Naix反制方法</h1><p>游戏的老大一开始会叫我们去日Naix的电脑，删掉里面的数据。但是你一删就会被抓住。然后给你发来这封邮件，并且删了你电脑的X-server.sys</p>
-<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20180715/151416456.png" alt="mark"></p>
-<p>你可以在游戏里执行scan命令，找到肉鸡，conncet肉鸡，并且用scp在sys文件夹内下载x-server.sys。不过是别的电脑的主题。</p>
-<p>被日了肯定很生气，接下来我想到一个反制Naix的方法。</p>
-<p>首先在自己的电脑里，找到日志</p>
-<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20180715/151702208.png" alt="mark"></p>
-<p>会给出删掉server.sys的服务器，通过connect命令可以连接上这台服务器。</p>
-<p>发现是Naix的代理服务器，他本机代理此连接对我进行入侵。</p>
-<p>进行简单的入侵之后，查找日志</p>
-<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20180715/151831909.png" alt="mark"></p>
-<p>发现他本机是173.194.35.172</p>
-<p>那么我们连接connect，从而找到隐藏的主机:Naix基地网关</p>
-<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20180715/152115631.png" alt="mark"></p>
-<p>入侵这台电脑，我先一秒五刀的手速，用肉鸡撞开代理，破了3个端口。然后断开，再回来，进行入侵主机。现在已经取得他的管理员权限了。</p>
-<p>我把他sys目录的东西全清空（互相伤害啊），再从他的bin目录里，找到80端口的入侵神器。</p>
-<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20180715/152251988.png" alt="mark"></p>
-<p>我觉得我应该是错过了他电脑的sys一些干货，有点可惜。</p>
-<p>但是在</p>
-<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20180715/152435319.png" alt="mark"></p>
-<p>我另有所获。</p>
+    <content type="html"><![CDATA[<p>好久不见了，又回到了博客。又重新接触了markdown，还是一如既往的写字舒服。</p>
+<p>已经正式进入高三生活，很难说有什么时间再参与信息安全。顶多就是周末回到家听团队成员聊聊最近的事情。</p>
+<p>团队一如既往的好，小伙伴们一如既往的和洽，一切的一切都按着好的轨迹走着。</p>
+<p>前阵子在朋友圈的一位女生的读书清单时发现了一句话，是北宋张载的一句话：</p>
+<blockquote>
+<p>为天地立心，为生民立命，为往圣继绝学，为万世开太平。——张载</p>
+</blockquote>
+<p>这句话也成为了我目前最喜欢的生物课的笔记本上的开篇志。</p>
+<p>我愿时刻记得这句话，也时刻牢记这句话带来的沉重。</p>
+<p>在教室每次学习感到累的时候，我会没事的时候念念这句话。让我感到这些压力，是值得的。</p>
+<p>我也准备了一些小说，《红楼梦》、《明朝那些事》、《围城》、《半生缘》、《小团圆》等等······</p>
+<p>在于课间或自习时用来充实自己，前段时间买了许多书，但因为种种原因没能用心去读，《红楼梦》这样的名作自然不是一遍两遍就能看懂的。</p>
+<p>我也打算将以前看过的许多名家名作重新再看一遍。感觉还有很多值得钻研的地方。</p>
+<p>最近发现贺铸和秦少游的诗篇不错，想到京东买，但是发现好像质量不是很OK，也许过段时间能够在别的网站上买到我想要的吧。</p>
+<blockquote>
+<p>凌波不过横塘路，但目送、芳尘去。锦瑟华年谁与度？月台花榭，琐窗朱户，只有春知处。</p>
+<p>飞云冉冉蘅皋暮，彩笔新题断肠句。试问闲愁都几许？一川烟草，满城风絮，梅子黄时雨。——贺铸《青玉案·横塘路》</p>
+</blockquote>
+<p>随着这段时间的学习，越发觉得自己的学识不够。愿高中最后一年能够呈现一种高爆发的姿态进行学识的补充。</p>
+<blockquote>
+<p>少年不知愁滋味，爱上层楼，爱上层楼，为赋新词强说愁。</p>
+<p>而今识遍愁滋味，欲说还休，欲说还休，却道天凉好个秋。——辛弃疾《丑奴儿》</p>
+</blockquote>
+<p>晚安。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;Hacknet遭遇天才黑客Naix反制方法&quot;&gt;&lt;a href=&quot;#Hacknet遭遇天才黑客Naix反制方法&quot; class=&quot;headerlink&quot; title=&quot;Hacknet遭遇天才黑客Naix反制方法&quot;&gt;&lt;/a&gt;Hacknet遭遇天才黑客Naix反制方法&lt;/
+      &lt;p&gt;好久不见了，又回到了博客。又重新接触了markdown，还是一如既往的写字舒服。&lt;/p&gt;
+&lt;p&gt;已经正式进入高三生活，很难说有什么时间再参与信息安全。顶多就是周末回到家听团队成员聊聊最近的事情。&lt;/p&gt;
+&lt;p&gt;团队一如既往的好，小伙伴们一如既往的和洽，一切的一切都按着好的轨
     
     </summary>
     
     
-      <category term="Steam" scheme="http://0chencc.github.io/tags/Steam/"/>
+      <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
     
-      <category term="Hacknet" scheme="http://0chencc.github.io/tags/Hacknet/"/>
-    
-      <category term="游戏" scheme="http://0chencc.github.io/tags/%E6%B8%B8%E6%88%8F/"/>
+      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
     
   </entry>
   
