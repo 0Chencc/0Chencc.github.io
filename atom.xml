@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://0chencc.github.io/"/>
-  <updated>2018-05-31T15:56:38.534Z</updated>
+  <updated>2018-07-19T07:29:07.660Z</updated>
   <id>http://0chencc.github.io/</id>
   
   <author>
@@ -14,6 +14,50 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hacknet遭遇天才黑客Naix反制方法</title>
+    <link href="http://0chencc.github.io/2018/07/18/Hacknet%E9%81%AD%E9%81%87%E5%A4%A9%E6%89%8D%E9%BB%91%E5%AE%A2Naix%EF%BC%8C%E5%8F%8D%E5%88%B6%E6%96%B9%E6%B3%95/"/>
+    <id>http://0chencc.github.io/2018/07/18/Hacknet遭遇天才黑客Naix，反制方法/</id>
+    <published>2018-07-18T07:00:00.000Z</published>
+    <updated>2018-07-19T07:29:07.660Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Hacknet遭遇天才黑客Naix反制方法"><a href="#Hacknet遭遇天才黑客Naix反制方法" class="headerlink" title="Hacknet遭遇天才黑客Naix反制方法"></a>Hacknet遭遇天才黑客Naix反制方法</h1><p>游戏的老大一开始会叫我们去日Naix的电脑，删掉里面的数据。但是你一删就会被抓住。然后给你发来这封邮件，并且删了你电脑的X-server.sys</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20180715/151416456.png" alt="mark"></p>
+<p>你可以在游戏里执行scan命令，找到肉鸡，conncet肉鸡，并且用scp在sys文件夹内下载x-server.sys。不过是别的电脑的主题。</p>
+<p>被日了肯定很生气，接下来我想到一个反制Naix的方法。</p>
+<p>首先在自己的电脑里，找到日志</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20180715/151702208.png" alt="mark"></p>
+<p>会给出删掉server.sys的服务器，通过connect命令可以连接上这台服务器。</p>
+<p>发现是Naix的代理服务器，他本机代理此连接对我进行入侵。</p>
+<p>进行简单的入侵之后，查找日志</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20180715/151831909.png" alt="mark"></p>
+<p>发现他本机是173.194.35.172</p>
+<p>那么我们连接connect，从而找到隐藏的主机:Naix基地网关</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20180715/152115631.png" alt="mark"></p>
+<p>入侵这台电脑，我先一秒五刀的手速，用肉鸡撞开代理，破了3个端口。然后断开，再回来，进行入侵主机。现在已经取得他的管理员权限了。</p>
+<p>我把他sys目录的东西全清空（互相伤害啊），再从他的bin目录里，找到80端口的入侵神器。</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20180715/152251988.png" alt="mark"></p>
+<p>我觉得我应该是错过了他电脑的sys一些干货，有点可惜。</p>
+<p>但是在</p>
+<p><img src="http://oqz4ehyp7.bkt.clouddn.com/blog/20180715/152435319.png" alt="mark"></p>
+<p>我另有所获。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Hacknet遭遇天才黑客Naix反制方法&quot;&gt;&lt;a href=&quot;#Hacknet遭遇天才黑客Naix反制方法&quot; class=&quot;headerlink&quot; title=&quot;Hacknet遭遇天才黑客Naix反制方法&quot;&gt;&lt;/a&gt;Hacknet遭遇天才黑客Naix反制方法&lt;/
+    
+    </summary>
+    
+    
+      <category term="Steam" scheme="http://0chencc.github.io/tags/Steam/"/>
+    
+      <category term="Hacknet" scheme="http://0chencc.github.io/tags/Hacknet/"/>
+    
+      <category term="游戏" scheme="http://0chencc.github.io/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>王者荣耀KPLAG保级赛:英雄迟暮</title>
@@ -384,45 +428,6 @@
 &lt;/blockquote&gt;
 &lt;p&gt;截止到17年12月3号，我再没发过文章。上面是我最近想的几句小诗，用来表达我最近的近况。会找个机会把这首诗写完。&lt;/p&gt;
 &lt;p&gt;至今过去了4
-    
-    </summary>
-    
-    
-      <category term="满口骚话" scheme="http://0chencc.github.io/tags/%E6%BB%A1%E5%8F%A3%E9%AA%9A%E8%AF%9D/"/>
-    
-      <category term="杂笔随谈" scheme="http://0chencc.github.io/tags/%E6%9D%82%E7%AC%94%E9%9A%8F%E8%B0%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>慈父之爱子，非为报也</title>
-    <link href="http://0chencc.github.io/2017/12/02/%E6%85%88%E7%88%B6%E4%B9%8B%E7%88%B1%E5%AD%90%EF%BC%8C%E9%9D%9E%E4%B8%BA%E6%8A%A5%E4%B9%9F/"/>
-    <id>http://0chencc.github.io/2017/12/02/慈父之爱子，非为报也/</id>
-    <published>2017-12-01T16:40:02.000Z</published>
-    <updated>2017-12-01T16:55:27.571Z</updated>
-    
-    <content type="html"><![CDATA[<p>这句话出自《淮南子》</p>
-<p>意思是慈祥的父亲疼爱自己的孩子，并非是为了将来孩子的报答。</p>
-<p>仔细想想，确实是这样。</p>
-<p>我们的人生是由每一个不同的选择组成的，我们会进行不同的选择，所以我们也成了不一样的人。我的家长让我努力，也只是为了让我在未来有更多选择的机会，让我可以选择去扮演不同的角色，选择自己真正想做的事情。</p>
-<p>是我太小的时候过分解读了他们给我的每一句话，也使我思想太过于功利。</p>
-<p>从我创业至今，我的父亲一直都是在鼓励我，也会因为担心我的压力而劝过我放弃，在我表明立场之后，又屹立不倒地支持我。可他明白，其实于他，并没有什么回报。</p>
-<p>他也一直担心我的身体，怕我累垮。因为我是一边上学一边工作的，双重压力，实在难受。</p>
-<p>其实他一直都是一个慈父的形象，也经常被我妈调侃，别人家是严父慈母。我们家是慈父严母。</p>
-<p>有时候他的慈不表露于外，他思想有一部分超前，又有一些守旧。</p>
-<p>他其实明白我也有过一些微不足道的成就，但在我没创业之前，他很少会当面夸我。但是他会在别的地方夸我。不让我知道。</p>
-<p>而创业之后他经常夸我，那是因为知子莫若父，他明白我的压力，怕我因为挫败感而逃避现实，怕我承受不了太大压力。他只能通过这样的方式，让我舒缓压力。</p>
-<p>他不说，不代表我不懂。我说了，是因为我不能假装不知道。</p>
-<p>从小到大，他真的付出太多。但也不求回报。</p>
-<p>有些哽咽，也有些困。不想写了，晚安。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;这句话出自《淮南子》&lt;/p&gt;
-&lt;p&gt;意思是慈祥的父亲疼爱自己的孩子，并非是为了将来孩子的报答。&lt;/p&gt;
-&lt;p&gt;仔细想想，确实是这样。&lt;/p&gt;
-&lt;p&gt;我们的人生是由每一个不同的选择组成的，我们会进行不同的选择，所以我们也成了不一样的人。我的家长让我努力，也只是为了让我在未来有
     
     </summary>
     
